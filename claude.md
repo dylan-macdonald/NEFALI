@@ -7,9 +7,23 @@ Tools to read and (eventually) write to LLM activation spaces. Start as an EEG, 
 1. Hook System - tap into model layers, extract activations ✅ DONE
 2. Reader - compare activations across inputs, find patterns ✅ DONE (Jan 5, 2026)
 3. Analyzer - map concept boundaries, profile neurons, cluster ✅ DONE (Jan 5, 2026)
-4. Writer - activation steering, inject vectors mid-forward-pass ✅ DONE (Jan 5, 2026)
+4. Steerer - activation steering, inject vectors mid-forward-pass ✅ DONE (Jan 7, 2026)
 
 **ALL FOUR LAYERS COMPLETE.** NEFALI is now a full EEG-to-Neuralink system.
+
+## Project Status (Jan 7, 2026)
+
+**Completed:**
+- Cross-model interiority analysis: 400 probe pairs across 5 models
+- Steering system with vector creation, injection, and generation
+- Live progress dashboard for monitoring long-running analyses
+- Pre-computed interiority steering vectors
+
+**Key Findings:**
+- Neuron #2570 in Qwen tracks interiority concepts (consciousness, identity)
+- R1 distillation amplifies interiority neurons (64 probes vs 47 in base)
+- Steering at layer 4 effectively modifies model self-descriptions
+- Different architectures encode interiority in different neurons
 
 ## First Experiment
 Aesthetic reward slider: extract hidden state scalar as reward signal, generate at different aesthetic weights (0-100%), document where outputs get weird.

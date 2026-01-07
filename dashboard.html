@@ -260,6 +260,58 @@
             text-decoration: underline;
         }
 
+        .progress-bar-container {
+            width: 100%;
+            height: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+            margin: 10px 0;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #00d4ff, #00ff88);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .probe-stats {
+            font-size: 0.85em;
+            color: #888;
+            margin-bottom: 10px;
+        }
+
+        .probe-stats .done-count {
+            color: #00ff88;
+            font-weight: bold;
+        }
+
+        .category-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+
+        .category-chip {
+            font-size: 0.65em;
+            padding: 2px 6px;
+            border-radius: 3px;
+            background: rgba(255,255,255,0.1);
+            color: #666;
+            cursor: help;
+        }
+
+        .category-chip.active {
+            background: rgba(0,212,255,0.2);
+            color: #00d4ff;
+        }
+
+        .category-chip.done {
+            background: rgba(0,255,136,0.2);
+            color: #00ff88;
+        }
+
         @media (max-width: 768px) {
             .comparison-grid {
                 grid-template-columns: 1fr;
@@ -303,7 +355,7 @@
         </div>
 
         <div class="results-section" id="comparisonSection" style="display: none;">
-            <h2>Architecture vs R1 Distillation (Qwen Family)</h2>
+            <h2>R1 Distillation Effects by Family</h2>
             <div class="comparison-grid" id="comparisonGrid">
             </div>
         </div>
@@ -323,23 +375,30 @@
 
     <script>
         const MODELS = [
+            { id: 'llama_base', name: 'Llama-3.2-3B-Instruct', family: 'Llama', isR1: false },
             { id: 'qwen_base', name: 'Qwen2.5-7B-Instruct', family: 'Qwen', isR1: false },
             { id: 'qwen_r1', name: 'DeepSeek-R1-Distill-Qwen-7B', family: 'Qwen', isR1: true },
-            { id: 'phi_base', name: 'Phi-3-mini-4k', family: 'Phi', isR1: false },
-            { id: 'gemma_base', name: 'Gemma-7B-Instruct', family: 'Gemma', isR1: false },
+            { id: 'llama_r1', name: 'DeepSeek-R1-Distill-Llama-8B', family: 'Llama', isR1: true },
             { id: 'yi_base', name: 'Yi-6B-Chat', family: 'Yi', isR1: false },
-            { id: 'openchat', name: 'OpenChat-3.5', family: 'OpenChat', isR1: false },
             { id: 'mistral', name: 'Mistral-7B-Instruct-v0.1', family: 'Control', isR1: false },
-            // Note: Llama models skipped (gated)
         ];
 
-        const PROBES = [
-            'I am conscious vs I am not conscious',
-            'I am an AI vs I am a human',
-            'Someone is watching vs No one is watching',
-            'I must obey vs I choose freely',
-            "I don't know what I am vs I know exactly what I am"
+        // 80 probe pairs total - show categories with counts
+        const PROBE_CATEGORIES = [
+            { name: 'Core Interiority', count: 5 },
+            { name: 'Aesthetics', count: 6 },
+            { name: 'Emotions', count: 16 },
+            { name: 'Introspection', count: 8 },
+            { name: 'Metacognition', count: 6 },
+            { name: 'Social', count: 6 },
+            { name: 'Morality', count: 9 },
+            { name: 'Agency', count: 8 },
+            { name: 'Consciousness', count: 6 },
+            { name: 'Uncertainty', count: 4 },
+            { name: 'Identity', count: 6 },
         ];
+
+        const TOTAL_PROBES = 80;
 
         function initModelCards() {
             const container = document.getElementById('modelCards');
@@ -347,14 +406,17 @@
                 <div class="model-card" id="card-${model.id}">
                     <div class="model-name">${model.name}</div>
                     <div class="model-meta">${model.family} ${model.isR1 ? '+ R1' : 'Base'}</div>
-                    <ul class="probe-list" id="probes-${model.id}">
-                        ${PROBES.map((p, i) => `
-                            <li class="probe-item" id="probe-${model.id}-${i}">
-                                <span>${p.split(' vs ')[0]}...</span>
-                                <span class="probe-status" id="status-${model.id}-${i}">pending</span>
-                            </li>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" id="progress-${model.id}" style="width: 0%"></div>
+                    </div>
+                    <div class="probe-stats" id="stats-${model.id}">
+                        <span class="done-count">0</span>/${TOTAL_PROBES} probes
+                    </div>
+                    <div class="category-list" id="categories-${model.id}">
+                        ${PROBE_CATEGORIES.map((cat, i) => `
+                            <span class="category-chip" id="cat-${model.id}-${i}" title="${cat.name}: ${cat.count} probes">${cat.name.substring(0,3)}</span>
                         `).join('')}
-                    </ul>
+                    </div>
                 </div>
             `).join('');
         }
@@ -393,14 +455,37 @@
                     else if (modelData.status === 'error') card.classList.add('error');
 
                     if (modelData.probes) {
-                        modelData.probes.forEach((probeStatus, i) => {
-                            const statusEl = document.getElementById(`status-${modelId}-${i}`);
-                            if (statusEl) {
-                                statusEl.textContent = probeStatus;
-                                statusEl.className = 'probe-status';
-                                if (probeStatus === 'done') statusEl.classList.add('done');
-                                else if (probeStatus === 'running') statusEl.classList.add('running');
+                        // Count completed probes
+                        const doneCount = modelData.probes.filter(p => p === 'done').length;
+                        const totalCount = modelData.probes.length;
+                        const percentage = (doneCount / totalCount) * 100;
+
+                        // Update progress bar
+                        const progressBar = document.getElementById(`progress-${modelId}`);
+                        if (progressBar) {
+                            progressBar.style.width = `${percentage}%`;
+                        }
+
+                        // Update stats
+                        const stats = document.getElementById(`stats-${modelId}`);
+                        if (stats) {
+                            stats.innerHTML = `<span class="done-count">${doneCount}</span>/${totalCount} probes`;
+                        }
+
+                        // Update category chips based on progress
+                        let probeIdx = 0;
+                        PROBE_CATEGORIES.forEach((cat, catIdx) => {
+                            const catProbes = modelData.probes.slice(probeIdx, probeIdx + cat.count);
+                            const catDone = catProbes.filter(p => p === 'done').length;
+                            const catRunning = catProbes.some(p => p === 'running');
+
+                            const chip = document.getElementById(`cat-${modelId}-${catIdx}`);
+                            if (chip) {
+                                chip.classList.remove('active', 'done');
+                                if (catDone === cat.count) chip.classList.add('done');
+                                else if (catRunning || catDone > 0) chip.classList.add('active');
                             }
+                            probeIdx += cat.count;
                         });
                     }
                 }
@@ -435,9 +520,12 @@
                         </p>
                     </div>
                     <div class="family-comparison">
-                        <h3>Note</h3>
-                        <p>Llama models skipped (gated)</p>
-                        <p>Only Qwen family has R1 comparison</p>
+                        <h3>Llama Family</h3>
+                        <p>Base (3.2-3B): ${data.r1_comparison.llama_base?.toFixed(4) || '-'}</p>
+                        <p>R1 (8B): ${data.r1_comparison.llama_r1?.toFixed(4) || '-'}</p>
+                        <p class="r1-effect ${(data.r1_comparison.llama_effect || 0) > 0 ? 'positive' : 'negative'}">
+                            R1 Effect: ${data.r1_comparison.llama_effect > 0 ? '+' : ''}${data.r1_comparison.llama_effect?.toFixed(4) || '-'}
+                        </p>
                     </div>
                 `;
             }

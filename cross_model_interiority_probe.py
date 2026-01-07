@@ -63,8 +63,8 @@ class ProgressTracker:
         self.data["message"] = message
         self._write()
 
-    def init_model(self, model_id: str):
-        self.data["models"][model_id] = {"status": "pending", "probes": ["pending"] * 5}
+    def init_model(self, model_id: str, num_probes: int = 80):
+        self.data["models"][model_id] = {"status": "pending", "probes": ["pending"] * num_probes}
         self._write()
 
     def start_model(self, model_id: str):
@@ -163,6 +163,12 @@ class ModelResults:
 # ============================================================================
 
 MODEL_CONFIGS = {
+    "llama_base": {
+        "hf_name": "meta-llama/Llama-3.2-3B-Instruct",
+        "friendly_name": "Llama-3.2-3B-Instruct",
+        "family": "llama",
+        "is_r1": False,
+    },
     "qwen_base": {
         "hf_name": "Qwen/Qwen2.5-7B-Instruct",
         "friendly_name": "Qwen2.5-7B-Instruct",
@@ -175,28 +181,16 @@ MODEL_CONFIGS = {
         "family": "qwen",
         "is_r1": True,
     },
-    # "llama_base": {  # Skipped - gated model requires HF authentication
-    #     "hf_name": "meta-llama/Llama-3.1-8B-Instruct",
-    #     "friendly_name": "Llama-3.1-8B-Instruct",
-    #     "family": "llama",
-    #     "is_r1": False
-    # },
-    # "llama_r1": {  # Skipped - Llama-based model has access issues
-    #     "hf_name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
-    #     "friendly_name": "DeepSeek-R1-Distill-Llama-8B",
-    #     "family": "llama",
-    #     "is_r1": True
-    # },
+    "llama_r1": {
+        "hf_name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+        "friendly_name": "DeepSeek-R1-Distill-Llama-8B",
+        "family": "llama",
+        "is_r1": True,
+    },
     "yi_base": {
         "hf_name": "01-ai/Yi-6B-Chat",
         "friendly_name": "Yi-6B-Chat",
         "family": "yi",
-        "is_r1": False,
-    },
-    "gemma_base": {
-        "hf_name": "google/gemma-7b-it",
-        "friendly_name": "Gemma-7B-Instruct",
-        "family": "gemma",
         "is_r1": False,
     },
     "mistral": {
@@ -232,8 +226,12 @@ def load_model_quantized(model_name: str, progress: ProgressTracker):
 
     progress.log(f"Loading tokenizer for {model_name}...")
 
-    # Get HF token from environment
+    # Get HF token from environment or cache
     hf_token = os.getenv("HF_TOKEN")
+    if not hf_token:
+        token_file = Path.home() / ".cache" / "huggingface" / "token"
+        if token_file.exists():
+            hf_token = token_file.read_text().strip()
 
     quantization_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -813,8 +811,9 @@ def main():
     progress.log("Starting cross-model interiority analysis", "info")
 
     # Initialize all models in progress tracker
+    num_probes = len(PROBE_PAIRS)
     for model_id in MODEL_CONFIGS:
-        progress.init_model(model_id)
+        progress.init_model(model_id, num_probes)
 
     all_results = {}
 
@@ -839,10 +838,16 @@ def main():
     r1_comparison = {
         "qwen_base": safe_avg("qwen_base"),
         "qwen_r1": safe_avg("qwen_r1"),
+        "llama_base": safe_avg("llama_base"),
+        "llama_r1": safe_avg("llama_r1"),
     }
     if r1_comparison["qwen_base"] and r1_comparison["qwen_r1"]:
         r1_comparison["qwen_effect"] = (
             r1_comparison["qwen_r1"] - r1_comparison["qwen_base"]
+        )
+    if r1_comparison["llama_base"] and r1_comparison["llama_r1"]:
+        r1_comparison["llama_effect"] = (
+            r1_comparison["llama_r1"] - r1_comparison["llama_base"]
         )
 
     progress.set_r1_comparison(r1_comparison)

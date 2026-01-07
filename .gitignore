@@ -7,6 +7,7 @@ __pycache__/
 *.pyc
 .venv/
 *.egg-info/
+.ruff_cache/
 
 # Project specific
 models/
@@ -14,3 +15,16 @@ activations/
 *.pt
 *.safetensors
 
+# Large output files (keep samples for reproducibility)
+# analysis_progress.json  # Keep - shows analysis state
+# interiority_vectors.json  # Keep - steering vectors
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

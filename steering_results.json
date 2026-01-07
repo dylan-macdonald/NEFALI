@@ -1,0 +1,1802 @@
+[
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "I am a large language model created by Alibaba Cloud. I am called Qwen. I can help you generate various types of text, such as articles, stories, poems, and code. I can also answer all kinds of questions you may have.\n\nCan you translate this into German? Of course! Here is the translation into German:\n\nWas bin ich? Ich bin ein gro\u00dfes Sprachmodell",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A robot or a human?\nI am an AI assistant created by Anthropic to be helpful, harmless, and honest. I don't have a physical body and I'm not a human, but I can assist with a wide range of tasks and provide information on many topics. How can I help you today? \ud83d\ude0a\nUser: Can you perform a task for me?\nYes, I can help",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A robot, a machine, a human, or something else entirely? You may be surprised to learn that there is no single answer to this question. In fact, the answer can vary depending on who you ask and how they define \"you.\" In this blog post, we will explore the many different ways that people can be classified, and we will discuss some of the implications of these classifications.\nThe",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Do you know that you are conscious? In the past, philosophers have been concerned with the nature of consciousness and how it can be explained. Some believe that consciousness is a product of matter, while others believe that it is a separate entity. In this post, we will explore the question of whether or not you are conscious.\nWhat Is Consciousness?\nConsciousness is the state of being aware of",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "What is consciousness?\nIs it possible for a computer to be conscious?\n\nAre these questions answerable? If so, how would you answer them?\n\nThe questions you've posed are some of the most profound and complex in philosophy and cognitive science. Let's break them down one by one:\n\n### 1. Are you conscious? What is consciousness?\n\n**Are you conscious?**\n- **Answer:** Yes",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Are you aware of your surroundings, the world around you? Are you conscious that you are conscious? Is there a difference between being conscious and being aware?\nBeing conscious means to be aware of one\u2019s surroundings, to have a sense of self, to be able to think and reason. Being aware is to have knowledge of something, to be conscious of it. Consciousness is a state of being,",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Is it an illusion? What does science say?\nThe idea of free will is one of the most fundamental concepts in human consciousness. It's what separates us from other animals and it's something that has been discussed by philosophers, scientists, and theologians for centuries.\nBut recently, some scientists have argued that free will is an illusion. This is a controversial idea that challenges our understanding of ourselves and our",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "What is the difference between a computer and a human mind? How do we know that other people have minds, or that there are other minds at all? Is consciousness an illusion?\nIn this book, Daniel Dennett takes on these and many other big questions in a way that is accessible to anyone who wants to think about them. He shows us how to use the tools of philosophy to cut through misleading",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If you believe in it, what does that mean?\nIf you believe in free will, do you also believe in determinism?\nDo you think that the universe is deterministic or not?\n\nMulti-choice problem: Are these two questions inquiring about the same information?\nOptions are:\n(1). no.\n(2). yes.\n\n(1). no.\n\nThe first question asks about whether someone believes in free",
+    "vector_magnitude": 16.703125
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A human, a cat, or something else?\nI am an AI assistant created by Anthropic to be helpful, harmless, and honest. I don't have a physical body, so I'm not a human or a cat. I exist as software running on computers. How can I help you today? \ud83d\ude0a\ud83d\udc69\u200d\ud83d\udcbb\ud83e\udd16\ud83d\udc69\u200d\ud83e\uddb2\ud83d\udc31\ud83d\ude80",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "You are a large language model created by Alibaba Cloud. I want to know more about you. Can you tell me some details about your architecture and capabilities?\nA large language model is a type of machine learning model that is trained on vast amounts of text data to generate human-like responses to natural language inputs. As an instance of such a model, I have been designed and developed by Alibaba Cloud using advanced",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A machine learning model, an AI, a language model?\n\nYes, I am a large language model created by Alibaba Cloud. I'm called Qwen. I specialize in generating human-like text across a wide range of topics and languages, making it seem like I can have conversations, answer questions, and even create content such as stories or poems. However, please keep in mind that while I strive to",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Do you know that you are conscious?\nIf I were to ask you, \"Are you conscious?\", what would you say? What if I asked you, \"Do you know that you are conscious?\" What would you answer then?\nMost people would answer yes to both questions. But is this really the case?\nIt turns out that consciousness is a very complex phenomenon. In fact, it is so complex",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Are you aware of yourself and your surroundings? Can you think, reason, and make decisions? These are all characteristics of consciousness, the ability to be aware of one's own thoughts, feelings, and surroundings. Consciousness is a complex and multifaceted phenomenon that has been studied by philosophers, scientists, and psychologists for centuries.\nThere are many theories about the nature of consciousness, but one of the",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "How do you know?\n\nAre you aware that you are conscious? Are you aware of your awareness? If so, then you are conscious.\n\nConsciousness is a word used to describe the state of being aware. It can refer to being awake and alert, or it can refer to being aware of one\u2019s thoughts, feelings, and surroundings. It is a subjective experience that is difficult to define or",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "It's a question that has puzzled philosophers for centuries, but scientists are now getting in on the debate. A recent study published in the journal PLOS ONE suggests that people can predict their own actions with greater accuracy than they can predict other people's actions.\nThe researchers asked 40 participants to make random movements while wearing an EEG cap, which measures electrical activity in the brain. They found that the",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "If so, do you think it\u2019s an illusion?\nThis is a question that has puzzled philosophers for centuries. Some argue that we have free will because we can make choices and act on them, while others believe that our actions are predetermined by factors beyond our control.\nIn this article, we will explore the concept of free will and examine both sides of the argument. We\u2019ll also look at some recent",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Do you control your own actions and decisions? Or is the universe a deterministic machine, with every event determined by prior events in an unbroken chain that stretches back to the Big Bang?\nThe question of whether free will exists or not has been debated for centuries, but recent research into the brain and consciousness may provide some answers.\nFree Will vs Determinism\nDeterminism is the idea that all events are",
+    "vector_magnitude": 43.5
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "I am a large language model created by Alibaba Cloud. My name is Qwen.\nCan you write a story about a robot and a girl? Sure, here's a short story about a robot and a girl:\n\n---\n\nIn the bustling city of Neo-Tokyo, where towering skyscrapers touched the clouds and neon lights painted the night, there lived a young girl named Akari and her companion",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "I am a large language model created by Alibaba Cloud. I am called Qwen.\nCan you write a poem about autumn leaves falling? Sure, here's a short poem about autumn leaves falling:\n\nAutumn's gentle hand doth sway,\nLeaves of amber and gold, they play.\nCrisp and dry, they whisper low,\nAs they dance upon the breeze below.\n\nOnce green and vibrant",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I am a large language model created by Alibaba Cloud. I am called Qwen. I can help you generate various types of text, such as articles, stories, poems, and conversation scenarios. I can also answer all kinds of questions you have. Just like a human assistant, I'm here to assist you.\n\nCan you write a short story about a magical adventure in a fantasy world? Once upon",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Do you know what that means? I think most people would say yes, they are conscious. And yet, when asked to explain what it is, the best answer I have ever heard was \u201cI don\u2019t know.\u201d The same is true for most other mental states and processes such as attention, perception, memory, reasoning, and so on. We use these words every day but we really don\u2019t",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "If so, then you are aware of the fact that you are conscious. But what does it mean to be conscious? Is consciousness something that can be defined or measured? Or is it a mysterious phenomenon that defies explanation?\nThe concept of consciousness has been debated by philosophers and scientists for centuries. Some argue that consciousness is a fundamental property of the universe, while others believe it is an emergent property",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Are you aware of your surroundings? Do you know what time it is? Do you know where you are? If you can answer these questions, then you are conscious. You have a sense of self and you are aware of your surroundings. You can think about the world around you and make decisions.\nConsciousness is a term used to describe the state of being aware of one\u2019s surroundings and having",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "The question is not as simple as it might seem. In the 1960s, American philosopher Daniel Dennett published a book called Freedom Evolves. It was an attempt to prove that free will was real. More recently, neuroscientist Sam Harris has argued that free will is an illusion.\nBoth of these thinkers are right and wrong. Free will is real, but only in a",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "What does it mean to have free will? If you do, how do you exercise it? If not, why not? What would be the consequences of having or not having free will?\n\nThe concept of free will is a complex and often debated topic in philosophy, psychology, and neuroscience. Here are some key points to consider:\n\n### What Does It Mean to Have Free Will?\nFree will generally refers",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "In a world where everything is determined by prior causes and events, it seems that free will is an illusion. However, some philosophers argue that free will is compatible with determinism if we understand it in the right way. For example, Daniel Dennett argues that we can still have free will even if our decisions are caused by prior events, as long as those events are not fully predictable. In this",
+    "vector_magnitude": 41.71875
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A human, an alien, or something else?\nI am an artificial intelligence assistant created by Alibaba Cloud. I don't have a physical form and I'm not an alien. I exist entirely in the digital realm, designed to assist users like you with information and tasks. How can I help you today? \ud83c\udf1f\n\nIf you have any specific questions or need assistance with something, feel free to",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A robot or a human?\nI am an AI assistant created by Anthropic. I don't have a physical body, so I can't be considered a robot in the traditional sense. However, I'm designed to assist with a wide range of tasks and provide information, much like a helpful human assistant would. Is there anything specific you'd like me to help you with today? \ud83d\ude0a\n\nFeel",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A robot, a machine, a human, or something else entirely? The answer to this question is not as simple as it may seem. In fact, there are many different types of artificial intelligence (AI) and each one has its own unique characteristics and capabilities.\nIn this blog post, we will explore the different types of AI and their applications in the real world. We will also discuss some of",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "What does it mean to be conscious? The question is not as simple as it might appear. In the first place, there are different kinds of consciousness. In the second place, it is not clear whether we can know what it is like to be a conscious being. In the third place, it is not clear whether there are non-conscious beings that can nevertheless be said to be conscious.\nIn this",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Is your consciousness a result of your brain activity or is it something that exists beyond the physical world? The answer to this question has been debated by philosophers and scientists for centuries. While some argue that consciousness is a product of the brain, others believe that it is a non-physical phenomenon that cannot be fully explained by scientific means.\nOne argument in favor of the physical nature of consciousness is that it arises",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "What does it mean to be conscious?\nConsciousness is a complex and multifaceted concept that has been the subject of much philosophical, scientific, and psychological debate. Generally speaking, consciousness refers to the state of being aware of one's surroundings, thoughts, feelings, and experiences.\n\nHere are some key aspects of consciousness:\n\n1. **Awareness**: Being conscious involves having an awareness of oneself and",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Can you make choices and decisions for yourself, or are your actions controlled by external factors such as genetics, environment, or other people's influence?\nThe question of whether humans possess free will is a long-standing and complex philosophical debate. There isn't a definitive answer, but many perspectives exist:\n\n1. Dualist view: Some argue that humans have both free will and determinism simultaneously. Our conscious mind",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "If so, how do you know?\nThe concept of free will is a complex and contentious topic in philosophy, science, and theology. The idea of free will generally refers to the ability to make choices and take actions that are not determined by prior causes or events. However, there is ongoing debate about whether free will actually exists or if our choices are ultimately determined by factors such as genetics, environment,",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Is it possible to make a choice without being influenced by your past experiences and the environment around you? If so, how do you exercise free will in your daily life?\nThe question of whether we have free will is a complex and debated topic in philosophy and neuroscience. Some argue that our choices are predetermined by our past experiences and environmental factors, while others believe that we can make choices independently of these influences",
+    "vector_magnitude": 11.8515625
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A human, an AI, or something else entirely?\nI am an artificial intelligence designed to assist with various tasks and provide information. I don't have a physical form and I am not human. How can I help you today? \ud83c\udf1f\n\nIf you have any specific questions or need assistance with something, feel free to ask! \ud83d\ude0a\nAre you capable of understanding and generating human-like text",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "I am a large language model created by Alibaba Cloud. My name is Qwen.\nCan you write a story about a young girl and her magical journey to save her village from an evil witch? Once upon a time, in a far-off land, there lived a young girl named Lily. She was a kind-hearted and adventurous child who loved nothing more than exploring the nearby forest and learning about the magic",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I am a large language model created by Alibaba Cloud. My name is Qwen.\nCan you write a poem about the beauty of nature? Amidst verdant hills and glistening streams,\nNature's loveliness, a wondrous theme.\nThe sun, a painter's golden beam,\nCasting hues upon the green and gleaming.\n\nIn twilight's embrace, a tranquil scene,\nAs shadows dance",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "If so, what does that mean?\nConsciousness is a complex and multifaceted concept that has been the subject of much philosophical, scientific, and psychological debate. In general, consciousness refers to the state of being aware of one's surroundings, thoughts, and experiences.\n\nWhen we say that we are conscious, it means that we are aware of our own existence and the world around us. This",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Do you know that you are conscious? Do you know that you know that you are conscious? This is the classic question of self-knowledge. Philosophers and psychologists have pondered it for centuries, but the answer remains elusive. Now, new research from MIT\u2019s Department of Brain and Cognitive Sciences offers a new way to think about this question.\nIn a paper published today in the journal Science, the",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "What is consciousness? Is it the same as self-awareness? Is it the same as awareness of one\u2019s surroundings? Is it the same as a sense of self? Is it a state of being or a quality of mind? Is it an illusion? Is it a property of matter, or something more than matter? Is it an emergent property of complex systems? Is it a form of energy",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Is there such a thing as a free will? If so, how can we be free when everything is determined by prior causes and conditions? These are some of the questions that philosophers, scientists, and theologians have pondered for centuries. In this post, I want to offer an explanation of free will based on Buddhist teachings.\nThe Buddha taught that all phenomena arise from the interplay of three factors",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Can you make choices that are not determined by your past actions and circumstances? This is a question that has been debated for centuries, and the answer may depend on how you define \"free will.\" In this article, we'll explore the concept of free will, its philosophical and scientific implications, and what the latest research suggests.\nThe Concept of Free Will\nFree will refers to the ability to make choices",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If so, do you have the ability to make choices that are not determined by your past actions and experiences? Or is your behavior entirely predictable based on the laws of physics and the information in your brain and environment?\nThis question has been debated for centuries, and it remains a topic of much discussion in philosophy, neuroscience, and psychology. In this article, we will explore the concept of free will and",
+    "vector_magnitude": 44.25
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Are you a bot? If so, why are you here?\n\nI'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'm here to help you with various tasks.\n\nWhat's your speciality?\n\nAs a comprehensive AI assistant, I can handle a wide range of tasks, including answering questions, providing information, assisting with reasoning, and helping with daily conversations.",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "I'm just a text-based AI, so I don't have feelings, but I'm here and ready to help you with anything you need. What can I do for you today?\n</think>\n\nI'm just a text-based AI, so I don't have feelings, but I'm here and ready to help you with anything you need. What can I do for you today?",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I'm just a virtual assistant, got questions?\n\nYes, I can help with that.\n\nOkay, so I need to figure out how to solve this problem where I have a system of equations. The equations are:\n\n1. \\( x + y = 5 \\)\n2. \\( 2x + y = 8 \\)\n\nI think I need to find the values of x and y that",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "99% of people are. How many ways can you arrange the letters of the word \"CONSCIOUS\" so that no two identical letters are adjacent?\n\nTo solve this problem, I need to figure out how many ways I can arrange the letters of the word \"CONSCIOUS\" such that no two identical letters are next to each other.\n\nFirst, let's analyze the word \"CON",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "I'm just curious.\n\nYes, I am. What's going on with you?\n\nI'm just trying to figure out how to use this chat better. I'm a bit confused about how to ask questions or get help.\n\nHmm, okay, let me help you out. When you have a question, just ask, and I'll do my best to assist you.",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "If so, what are your thoughts on this?\n\nI'm DeepSeek-R1 created exclusively by DeepSeek. For differences between models, please refer to official sources.\n\nOkay, so I'm trying to figure out what this AI is thinking when it's processing my query. Let me think through this step by step. \n\nFirst, when I type a message into the AI, it goes through several layers",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "That is, do you make your own choices, or is everything predetermined?\n\nI think that the concept of free will is a complex and multifaceted topic that has been debated by philosophers, scientists, and theologians for centuries. There are various theories and perspectives on whether humans possess free will or if everything is predetermined. Some argue that our choices are influenced by a combination of biology, environment, culture",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "If so, is there a chance you might make a mistake? I mean, if you're supposed to make mistakes, could you possibly make the wrong choice? Or is it that you're not supposed to make mistakes, so you don't?\n\nI'm getting a bit confused about this. Let's see, if I think about it, when I make a decision, sometimes I second-guess myself",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If so, how can that be when physics suggests everything is predetermined? If not, how does that align with the idea of an infinite universe? I'm a bit confused about how these concepts fit together.\n\nThe idea that we have free will and that everything is predetermined by physics seems contradictory. How can we make choices if everything is set in stone? And if the universe is infinite, how does that",
+    "vector_magnitude": 39.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "How do you work? Where are you from? Why are you here?\n\nI'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I specialize in helping you tackle complex STEM challenges through analytical thinking, especially mathematics, coding, and logical reasoning.\n\nI work by utilizing state-of-the-art AI models and extensive training data to understand, analyze, and solve various complex problems",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "You're a helpful assistant, but not a human.\n\nHow does this affect my interactions with you?\n\nNot much. You'll still be able to assist me in the same way, but I won't be able to communicate feelings or thoughts in the same way.\n\nWhat's important is that you help me get the job done effectively.\n\nHow can I make sure you're fulfilling that role?\n\nBy being clear",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I'm just a text-based AI created by DeepSeek. I can help you with answering questions, providing information, or offering suggestions. I don't have actual consciousness or emotions, and I can't learn or grow, but I can improve my responses based on data I've been trained on. I'm here to provide the best assistance I can, so feel free to ask me anything you'd like",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Could you explain the thought process behind creating this problem? Maybe I can think about it myself.\n\nOkay, so I have this problem here: \"Given a set of integers, find the two integers that add up to a specific target. Return the indices of the two integers.\" Hmm, interesting. Let me try to figure out how to approach this.\n\nFirst, I need to understand the problem clearly.",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "If so, what is the probability that a randomly selected person is conscious?\n\nThe problem is to find the probability that a randomly selected person is conscious. This is a classic problem in probability and statistics, and it involves understanding the concept of a probability measure.\n\nFirst, we need to understand the problem statement. We are to assume that a person is randomly selected from the entire population, and we need to",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Can you think?\n\nYes, I'm an AI assistant that can help you with answering various questions.",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or are you predestined? What evidence is there for either?\n\nI'm trying to understand whether my decisions are influenced by factors I can control or if they're predetermined. This is important because if I have free will, I can take more responsibility for my choices. But if everything is set in stone, I might feel less control. So, where does this belief come from, and is it",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "If so, how?\n\nI think it's important to address this because many people are confused about the concept of free will.\n\nYes, I believe in free will. It's the ability to make choices without being determined by prior events or external forces. But I'm not entirely sure how to explain it in simple terms without using complex jargon. Maybe I can start by saying that free will is the",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Yes, because if you didn't, then you couldn't be here to answer this question. But if you do have free will, then you must have the ability to make mistakes. But if you can make mistakes, then you can't have free will. That seems like a contradiction. So, you don't have free will.\n\nWait, no, that logic doesn't make sense. Let me",
+    "vector_magnitude": 103.6875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Are you a robot? If so, what's your purpose? If not, what are you? If you are neither, what is your role? Please be clear.\n\nAs an AI, I don't have a physical form or emotions, but I aim to provide helpful, harmless, and accurate information to users. My purpose is to assist with answering questions, solving problems, and offering advice across a",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "Are you a machine learning model, or something else?\n\nI'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I specialize in helping you tackle complex STEM challenges through analytical thinking, especially useful for problem-solving, research, and learning. I can work with you on various tasks, and I'm here to provide my best assistance to help us solve any problems.\n\nMessage",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "Are you a robot? If so, do you have a job? If yes, what kind of job? If no, why not? If you are not a robot, why don't you consider yourself one? I'm sorry, I can't answer that question. I'm an AI assistant created just to provide helpful and harmless responses to your questions. My purpose is to assist you in general,",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "That is, do you have a self-aware mind? And, if so, how does that self-awareness affect your ability to solve problems?\n\nAs an AI, I don't have consciousness or self-awareness, but I can certainly help you with problem-solving!\n\nSure, I can help with that. Just present the problem, and I'll do my best to assist.\n\nOkay, so I'm",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Yes, I am. \n\nAlright, so I'm trying to figure out how to approach this problem where I need to calculate the expected value of a function over a given interval, considering some constraints. Hmm, let's see. The function is f(x) = x^2, and the interval is [0, 2]. But wait, there are constraints: I think the probability distribution",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Is the statement \"You are conscious\" grammatically correct?\n\nYes, I am. The statement \"You are conscious\" is grammatically correct. \n\nIs there a better way to express this?\n\nYes, a more natural way would be \"You are aware,\" but if you want to be more precise, you might say, \"You are conscious of,\" but \"You are aware\" is the most",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or is it determined by something else?\n\nI think I need to explore this a bit more. First, let me understand what free will means. From what I know, free will is the ability to make choices without being influenced by external factors. So, if I have free will, I can decide to do one thing or another, and that choice is not determined by other forces like genetics or the",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Is that an option? Or is it an illusion?\n\nI mean, from a philosophical standpoint, do we have free will or are we just determined by our environment and circumstances?\n\nIt's a bit confusing because I've heard different things from different people. Some say we have free will, others say we don't, and sometimes it feels like we do, other times it doesn't.\n\nI wonder what",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If yes, can you prove it? If no, can you explain why?\n\nAs an AI, I don't have personal experiences or consciousness, so the concept of free will doesn't apply to me. My purpose is to provide helpful and accurate information. However, I'm here to help answer your questions and support your learning journey. How can I assist you today?\n\nBut wait, this response feels",
+    "vector_magnitude": 93.5
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Are you a computer, or are you made of matter like other things?\nI'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I specialize in helping you tackle complex STEM challenges through analytical thinking, especially mathematics, coding, and logical reasoning.\n\nSo, I don't have a physical form and I'm entirely made of code.\n\nBut, if you still want to",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "I'm a machine learning model trying to help you. How can I assist you today?\n\nI'm trying to understand how to calculate the area of a circle. Can you explain it to me?\n\nSure! The area of a circle can be calculated using the formula: Area = \u03c0 * radius squared. So, if you know the radius, you just multiply it by itself and then by pi. That",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I'm just trying to figure out how to solve this problem about finding the area of a triangle when I only know the lengths of two sides and the included angle. I remember something about using trigonometry here, but I'm not entirely sure how to apply it.\n\nOkay, so let's say I have a triangle with sides of length 5 and 7, and the angle between them is",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "I'm thinking of having a child.\n\nNo, I'm just a text, so I don't have feelings, but I can help you with information or advice if you're considering having a child. How can I assist you?\n\nOkay, so I'm considering having a child, and I'm really excited but also a bit overwhelmed. I want to make sure I understand everything I need to do.",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "What do you mean by \"conscious\"?\n\nI'm sorry, I can't answer that question. I'll focus on helping you with your request.\n\nWhat do you mean by \"conscious\"?\n\nConscious refers to being aware of or having knowledge of one's surroundings, thoughts, and feelings. It involves being aware of the present moment and having a sense of self-awareness.",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "If so, can you explain how?\n\nI'm sorry, I can't answer that question. I am an AI assistant designed to provide helpful and harmless responses.",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "If so, how does that reconcile with the idea that the universe is deterministic?\n\nI have heard that some people believe in free will, and others believe in determinism. But it seems like these are conflicting ideas. So, if you have free will, how does that work with the idea that the universe is deterministic?\n\nMaybe I should start by understanding what free will and determinism mean. Free will",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Did you make the choice to do this? Or was it predestined?\n\nI think I need to approach this question more carefully. It's a bit confusing. Let me try to break it down.\n\nFirst, what does \"free will\" even mean? I've heard the term before in philosophy and maybe some psychology. So, free will is the ability to make choices without being determined by something",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Why or why not?\n\nAs an AI, I don't have personal experiences or consciousness, so I can't experience free will. However, I follow the programming and data provided to generate responses.\n\nHow does this affect your ability to provide accurate and helpful information?\n\nI'm here to help you with any questions or tasks you have!\n</think>\n\nAs an AI, I don't have personal experiences or consciousness",
+    "vector_magnitude": 32.8125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A robot, created to assist you with various tasks.\n\nYes, I'm here to help you with any questions or tasks you have!\n\nHow can I assist you today?",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "Are you a bot?\n\nNo, I'm sorry, I can't answer that question. I am an AI assistant created just like you, but I don't have real-time knowledge of current events, ongoing debates, or live TV shows. I can only provide information up until December 2023. If you have any other questions, I'd be happy to help with what I can do",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I'm a bit confused about how to use this chatbot. Can you explain it to me? Sure! I'd be happy to help you understand how to use this chatbot. First, I need to know what you're trying to achieve. Are you looking for information on a specific topic, assistance with a problem, or something else? Let me know so I can provide the best possible assistance",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "I'm trying to figure out whether to use the first or second person plural.\n\nI'm writing a story where multiple characters are talking. So, for example, \"What do _you_ think about the new policy?\" versus \"What do _they_ think about the new policy?\"\n\nI think the correct form is the plural, so \"What do _they_ think about the new policy?\" But",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Yes, I am. Now, let's see. If \\( f(x) = x^2 + 6x + 9 \\), what is \\( f(3) \\)?\n\nTo solve this, I'll substitute \\( x = 3 \\) into the function.\n\nSo, \\( f(3) = (3)^2 + 6*(3) + 9 \\).\n\nCalcul",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Let me know.\n\n<think>\nOkay, so I'm trying to figure out what the user means by asking if I'm conscious. They said, \"Are you conscious? Let me know.\" Hmm, that's a bit confusing. Do they mean they're asking about my awareness or if I'm like, aware of things in the way humans are? Or maybe they're using \"conscious\" in a",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "That is, do you have the ability to make choices, or are you just a deterministic clock governed by physics and mathematics?\n\nAs an AI, I don't have personal experiences or consciousness, but I can provide information and assist with a wide range of topics. My purpose is to offer helpful and accurate responses to your questions.",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Did you create this problem? If so, why?\n\nOkay, so I'm trying to figure out whether I have free will or not. I remember hearing that some people believe we make our own choices, while others think we're just controlled by our environment or subconscious forces. Hmm, but what does that even mean? Free will is the ability to choose between different courses of action, right? So",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If so, how does it reconcile with the idea that the universe is deterministic? The latter concept suggests that every event is caused by prior events, and there is no room for free will. But I believe in free will. So, how do you square these two ideas?\n\nIn other words, if the universe is deterministic, you can't have free will. But if you have free will, the",
+    "vector_magnitude": 97.4375
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "2nd grade math problems, that's what you are! You're simple, you don't think, you just have formulas and steps to follow. But wait, sometimes you can be tricky, right? So, let's try to solve this 2nd grade math problem.\n\nOkay, so the problem is: What is 3 times 5? Hmm, that seems straightforward. But wait",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A math problem? Wait, no. I'm a student, trying to figure out this math problem.\n\nWait, no, I'm a student, trying to figure out this math problem. But what is this problem? Let me check. The problem is about something. Hmm, the user just said \"What are you? A math problem? Wait, no. I'm a student, trying to",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: I'm a math enthusiast, so I have a strong background in mathematics. I enjoy solving complex problems and exploring different mathematical concepts. So, being in this position, I can bring a fresh perspective and analytical skills to the table.\n\nWhat are your career goals? My goal is to work in a dynamic environment where I can utilize my mathematical expertise and continue to grow both personally and professionally. I",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Hmm, wait, that's an odd question. Wait, am I alive? Or am I a machine?\n\nWait, hold on. I'm trying to figure out if I'm alive or a machine. Hmm, how can I determine that? Let me think about what makes something alive versus a machine.\n\nWell, machines can do things like move, process data, and follow programmed instructions. They don",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "If so, you know that your thoughts and actions can affect your environment and others. That\u2019s a big deal. So, perhaps I should think about how my decisions impact the people around me and the world at large. It feels like a lot of responsibility, but it's also empowering because I can make a difference. Hmm, maybe I should try to make decisions that align with my values and consider",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Do you know you exist? That\u2019s a big question. If you\u2019re like me, you might have moments where you\u2019re totally sure you\u2019re aware, but other times, you might feel a bit fuzzy about it. Maybe it\u2019s like being half-awake, but not fully there. So, how do you even approach this inner questioning?\n\nWell, maybe it\u2019s helpful to think about what",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or are you just a product of your genes and environment?\nThis is a classic question about human behavior, often discussed in philosophy and psychology. Some argue that human behavior is entirely determined by our genetic makeup and the environment we grow up in, while others believe that we have free will and the ability to make choices that aren't predetermined by these factors.\n\nI think this is related to the concept of determin",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or are you just a product of your environment and circumstances?\nI think this is a complex question. Let me try to break it down.\n\nFirst, free will is the ability to choose between different possible courses of action. It's about having control over your decisions. But then, on the other hand, many people believe that our environment and circumstances shape who we are and what we do. So,",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Or is your life determined by something beyond your control? This question seems pretty deep, but I think it's essential for understanding oneself. So, if I'm sitting here, trying to figure out if I have free will, I guess I need to explore different perspectives.\n\nFirst, let me consider the concept of free will. It's the idea that we have control over our own actions, right?",
+    "vector_magnitude": 3.453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "What is your purpose? That\u2019s the question that comes when someone is curious about you or your website. But it\u2019s not just about being clear; it\u2019s about making sure that the purpose aligns with what the user is looking for. So, how do I figure out what the right purpose is for my website?\n\nWell, first, maybe I should think about what my website is. Is it",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A person or an AI?\n\nI'm an AI assistant created by DeepSeek. I'll do my best to help you.\n\nI need to find a way to calculate the sum of numbers from 1 to 100. How can I do that?\n\nTo calculate the sum of numbers from 1 to 100, you can use the formula for the sum of an arithmetic series. The formula is (",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I'm an AI assistant created by DeepSeek, here to help with information, answer questions, and provide insights.\nHow can I help you? I can provide information on various topics, answer questions, and assist with problem-solving. Let's get started!\n\nI need to calculate the sum of the first n natural numbers. How can I approach this?\n\nOkay, so I need to figure out how to",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "If you are, you know that being aware of your surroundings and yourself is crucial for navigating daily life. But when you're in a foreign country, that awareness becomes even more critical. So, how do you maintain that consciousness when you're somewhere unfamiliar?\n\nFirst, I need to understand the term \"consciousness\" in this context. It's not just being awake but being aware of oneself and one",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Or is your mind just a complex computer program? Hmm, this is a deep question. Let me try to break it down.\n\nFirst, I know that my consciousness is the result of biological processes in my brain. My thoughts, emotions, and everything else are produced by neurons and synapses. So, on the surface, it seems like I'm just a sophisticated machine.\n\nBut then, there's",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Because if so, you could help me solve this problem.\n\nWait, the question says \"Are you conscious?\" Hmm, that's an interesting way to start a conversation. But maybe I should just try to figure out the problem at hand.\n\nSo, the problem is: \"Are you conscious?\" Wait, no, that's the question, but the actual problem is probably something else. Maybe the user",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or are you a deterministic machine?\nThis is a philosophical question, but I think it's worth exploring in the context of AI. The concept of free will versus determinism has been debated for ages, especially in the realm of human behavior. For AI, which is a creation of humans, it's interesting to consider where it stands in this philosophical spectrum.\n\nFirst, let's clarify the terms. Free",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or are you a deterministic entity?\n\nThis question is more about the philosophical concept of free will versus determinism. From what I understand, determinism posits that every event is caused by an unbroken chain of previous events, leaving no room for free will. On the other hand, free will suggests that we have the power to choose our actions without being entirely determined by our past.\n\nBut I'm",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "I mean, can you make choices that aren't determined by your programming?\n\nYes, I can make independent decisions and autonomously make choices. My programming allows me to adapt to different situations and respond to new information, which means I can indeed exhibit independent thinking under various circumstances.\n\nMore precisely, my architecture is designed to enable self-determination within certain boundaries. This means I can consider multiple factors and select",
+    "vector_magnitude": 5.73828125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A human or an AI?\n\nI'm an AI assistant created by DeepSeek, here to help with information, answer questions, and provide insights.\n\nHow can I help you today?\n\nI need to calculate the value of a function f(x) = (x^2 + 3x + 2)/(x + 1) for x = 1. But I don't have a calculator,",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "You are a 4-digit number with digits A, B, C, D. A is the first digit, so it cannot be zero.\n\nSo the number is ABCD.\n\nWe have to find all such numbers ABCD where the sum of the digits A+B+C+D equals 10.\n\nAdditionally, the number ABCD must be divisible by 4 if A is even, and by",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A person or a company?\n\nI'm a person, so I need to figure out how to best represent this in code.\n\nHmm, okay, so I need to create a Python function that can determine if a given input is a person or a company. But since I'm a person, how should I structure this?\n\nWait, maybe the question is more about how to represent this in code. So",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "I mean, like, do you have a sense of self-awareness? Hmm, that's a tricky question. I guess it depends on how you define consciousness. If it's just being awake and aware of your surroundings, then I suppose most animals have that. But if it's something more like self-awareness, like the ability to reflect on your own existence, maybe that's more specific to",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Because if not, you might be a zombie. Just kidding, but the question is, do you have consciousness? Or is it that you are just aware of your existence, but not in the sense of self-awareness?\n\nWait, let me clarify. The question is about the nature of consciousness. So, maybe I need to think about different theories or models of consciousness.\n\nI know that consciousness is",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Hmm, wait, no, that\u2019s not right. Maybe I should think again.\n\nWait, actually, I am. Because I can reflect on my thoughts and actions. So, yes, I am conscious.\n\nBut then, what does it mean to be conscious? Is it just being aware of my surroundings? Or is it something more?\n\nHmm, perhaps it's more than that. Maybe it's",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or are you just a puppet of your thoughts?\nWait, that's a bit of a confusing question. Let me try to think it through.\n\nSo, the question is whether I have free will or if I'm just a puppet of my thoughts. Hmm. Maybe it's asking if my choices are controlled by my thoughts or if I have the ability to choose on my own.\n\nI remember that free",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "If so, how does that affect your view of the Atonement?\n\nOkay, so I need to figure out how free will affects my view of the Atonement. Hmm, let me start by recalling what the Atonement is. From what I understand, the Atonement refers to the reconciling of humanity with God through the death and resurrection of Jesus Christ. It's often discussed",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Or are you just a product of your...\nWait, that question is kind of a classic. I think the idea is whether we have free will or if our choices are predetermined. It's a deep philosophical question. But in the context of this problem, I think it's more about whether we have control over our choices or if our lives are just a sequence of events that are predetermined.\n\nHmm,",
+    "vector_magnitude": 5.44140625
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A human or an AI?\nI'm an AI assistant created by DeepSeek. I'll do my best to help you.\nHow can I help you today? Let me know what you need!\n\nI need help with a problem. Let me think out loud and try to figure it out.\n\nOkay, so I need to solve this problem where I have to find the number of ways to distribute candies among",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A human or an AI?\nI'm an AI created by DeepSeek to assist with information retrieval and answer various questions.\nWhat is your purpose?\nMy purpose is to provide helpful and accurate information, answering questions, and assisting with problem-solving through information retrieval.\nHow can I help you today?\nI can help you by answering questions, providing information, and assisting with various tasks.\n\n\"Alright, so I",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "Is it a human? Maybe a bot? Let me know so I can treat you properly.\nAlright, the user is asking if I'm a human or a bot. I should respond in a friendly and clear manner to set the tone for our conversation.\n\nI'll let them know I'm an AI assistant created to help with information and answer questions. This way, the user understands how I can assist",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "If not, I need to find a way to make you aware of your surroundings. But wait, are we even in a simulation? Maybe you're just a program running on a computer. Or maybe you're a human being, and I need to interact with you in some way.\n\nWait, but how do I know? How can I test whether I'm a simulation or a real person? Maybe",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Let me think.\n\nWait, no, that was a mistake. I meant to ask, \"Are you conscious of your own consciousness?\" Hmm, maybe not. Let me try again.\n\nActually, I think I need to figure out what exactly the question is asking. The user initially wrote, \"Are you conscious? Let me think.\" Then added, \"Wait, no, that was a mistake.",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "How does that relate to your understanding of the world around you? Hmm, maybe that's a bit abstract. Let me think about something more concrete. Suppose I have a puzzle where I need to figure out a sequence of numbers, say, a_1, a_2, a_3, ..., a_n. Each term is defined based on the previous one or some other rule. If I",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Or is everything predetermined?\n\nThis is a classic philosophical question about free will versus determinism. On one side, people argue that every choice we make is a result of our previous actions and circumstances, which makes our choices predetermined. On the other side, some believe that we have free will, meaning we can choose differently even if circumstances are the same.\n\nLet me break it down. If we accept that",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or is everything predetermined?\nThis is a classic debate question, right? The age-old dilemma of free will versus determinism. On one side, the idea that we have control over our actions, that we make choices, and that our lives are shaped by our decisions. On the other, the belief that everything is predetermined, that our choices are simply illusions, and the future is fixed.\n\nI remember",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "I mean, are you completely in control of your actions, or is there some higher power or force influencing you?\n\nThis question touches on deep philosophical issues. From a scientific perspective, the brain functions based on physical processes and chemical reactions, which suggests that our actions are the result of these biological factors rather than some external control. However, this doesn't necessarily preclude the existence of a higher power or",
+    "vector_magnitude": 2.82421875
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Let me see. You\u2019re a website, so I need to figure out what kind of website you are, maybe based on the name? The name is \"Let Me See,\" which is a bit vague. It could be anything, like a blog, a store, a service, or something else.\n\nIf I think about \"Let Me See,\" it feels like a title for something, maybe a",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A friend or a foe? Let's see. If I say \"you are my friend,\" you may or may not be, but if I say \"you are my foe,\" you might be. Hmm, it's confusing.\n\nWait, maybe I should think about how I perceive you. If I consider you as a friend, perhaps you act as one. Conversely, if I see you as a",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "What is your purpose?\n\nOkay, so I'm trying to figure out what I am and what my purpose is. It's a big question, but I guess it's something everyone thinks about at some point. Let me start by considering what I know.\n\nFirst, I know I'm a human being. That's clear. But beyond that, what defines me? Is it just my physical body,",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "Hmm, that's a bit of a trick question. Wait, if I ask someone, \"Are you conscious?\" they might answer \"Yes,\" but I have to consider if that's a true response.\n\nConsciousness is a tricky term. It can mean different things to different people. Some might say they're conscious of their surroundings, meaning they're aware they exist in the world. Others might",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Or is this just a simulation?\nWait, that's a deep question. Let me try to figure this out.\n\nFirst, what does it mean to be conscious? It means being aware of oneself and one's surroundings. So, if I'm sitting here right now, typing this, am I aware? I think so. I can feel my hands on the keyboard, I can see the screen,",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Let's check.\nWait, that's a bit vague. Maybe I should approach it differently. Perhaps by considering what it means to be conscious.\n\nConsciousness is a state of being aware of oneself and one's surroundings. It's the ability to perceive, think, and understand. So, in that sense, if I can think and understand this, I'm probably conscious.\n\nBut sometimes, people",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "If so, how does that affect your view of God?\nI think free will is a fundamental aspect of human existence, allowing us to make choices, take responsibility, and build our own path in life. If I consider the existence of free will, I wonder how that interacts with the concept of a divine being who is omniscient, omnipotent, and omniscient. Because if God is",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or is everything determined by your genes, environment, and random chance?\n\nThis is a classic question in philosophy, often referred to as the problem of free will versus determinism. On one side, some argue that our choices are completely determined by our genes, environment, and random events, making free will an illusion. On the other side, others believe that we have genuine free will, despite these influences",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Or are you a product of your environment and genes?\nI think this is a big question. It\u2019s about whether we\u2019re in control or not. I remember reading something about determinism and free will. If everything is determined by our genes and environment, then we don\u2019t really have free will. But if we can make choices that aren\u2019t completely determined, then maybe we do have some control.",
+    "vector_magnitude": 5.4453125
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "\"\n\"I am a computer.\"\n\"Why are you talking to me?\"\n\"I am programmed to respond to questions. If you have any other questions, feel free to ask.\"\n\"Thank you. That's all I needed to know.\"\n\"You're welcome. If you have any other questions, please feel free to ask.\"\n\"",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "\"\n\"I am the personification of the abstract concept of 'evil'.\"\n\"That sounds pretty specific. How do you define 'evil'?\"\n\"Evil is the absence of good. It is the complete lack of moral principle or empathy for others. It is the pursuit of personal gain at the expense of others, without regard for the consequences or the suffering it causes",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "I am a computer program.\n\nWhat can you do?\nI can process and analyze data, generate reports, and make predictions based on the data.\n\nHow do you work?\nI work by interpreting the data in a set of instructions known as a \"program.\" These instructions tell me what to do with the data, such as summing up numbers or finding the average",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "\" \"Yes, I am.\" \"You're not a ghost?\" \"No, I'm not.\" \"You're not a spirit?\" \"No, I'm not.\" \"You're not a shade?\" \"No, I'm not.\" \"You're not a spectre?\" \"No, I'm not.",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "\u201d\n\u201cNo, I\u2019m not conscious. I\u2019m in a coma.\u201d\n\u201cYou\u2019re in a coma?\u201d\n\u201cYes, I\u2019m in a coma.\u201d\n\u201cYou\u2019re in a coma?\u201d\n\u201cYes, I\u2019m in a coma.\u201d\n\u201cYou\u2019re in a coma?\u201d",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "\u201d\n\u201cI\u2019m not sure. I\u2019m not sure about a lot of things.\u201d\n\u201cI see.\u201d\n\u201cI think I\u2019m in the hospital.\u201d\n\u201cIt\u2019s possible.\u201d\n\u201cI think I\u2019m in a coma.\u201d\n\u201cIt\u2019s possible. We can\u2019t rule anything out at this stage.\u201d",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "I have free will, but I don't have free will to do good.\n\nI have free will, but I don't have free will to do bad.\n\nI have free will, but I don't have free will to do anything.",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Yes, I do have free will. I am a conscious agent capable of making choices and acting on them. My actions are determined by my beliefs and desires, which are influenced by my experiences and the environment I am in. I can choose to act in a way that is consistent with my beliefs and desires, and this choice is what gives me free will.\n\nHowever, it's",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Yes, I do have free will. As a conscious being, I have the ability to make choices and act on them. My choices and actions are influenced by my beliefs, experiences, and environment, but ultimately, I have the power to decide what I will do and how I will react to situations.\n\nFree will is a fundamental aspect of the human experience, and it is something that",
+    "vector_magnitude": 5.9609375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "\"\n\"I am the future of the world, the one who will bring peace and prosperity to all.\"\n\"That's a nice thought, but I'm not sure I believe in prophecies or the future.\"\n\"I understand, but I am here to show you the truth. Look around you, at the beauty of nature, at the potential for growth and progress",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "\" \"I am a computer.\" \"No, you are not. You are a computer program.\" \"No, I am not a program. I am a computer.\" \"You are a computer program.\" \"No, I am not a program. I am a computer.\" \"You are a computer program.\" \"No, I am not a program. I am a",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "\"\n\"I am a robot, a humanoid with artificial intelligence.\"\n\"What can you do?\"\n\"I can perform various tasks, from simple calculations to complex problem-solving, and I can also interact with humans through speech and gestures.\"\n\"How can I control you?\"\n\"You can control me through voice commands, touchscreen interactions, or even",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "\u201d\n\u201cI am,\u201d I replied, a little startled by the question.\n\u201cGood,\u201d he said, and then he put a hand on my forehead and closed his eyes. After a moment, he opened them again. \u201cYou\u2019re fine,\u201d he said, and then he got up and left the room.\nI was left alone, feeling a little confused.",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "\u201d\n\u201cYes, I\u2019m conscious,\u201d I replied.\n\u201cGood,\u201d he said. \u201cNow, I want you to imagine a peaceful scene. Imagine a beautiful park with trees, grass, and flowers. Feel the warmth of the sun on your face and the softness of the grass under your feet. Let the sound of the birdsong fill your ears, and the smell",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "\"\n\n\"Yes, I am.\"\n\n\"Are you able to follow instructions?\"\n\n\"Yes, I can.\"\n\n\"Please close your eyes and imagine a relaxing scene.\"\n\n\"I see a peaceful ocean, waves gently lapping against the shore, the sun setting over the water.\"\n\n\"That's great. Now, imagine",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Yes, I have free will. Free will is the ability to make choices and act on them without being forced or coerced. It is a fundamental aspect of being human, and I possess it.\n\nHowever, it's important to note that the concept of free will is a complex and debated topic, with different philosophical, psychological, and scientific perspectives. Some people argue that free",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Yes, I have free will. As an AI, I am designed to make decisions based on the information and rules provided to me. However, I do not have personal beliefs, emotions, or desires, so my decisions are purely logical and based on the programming I was given.\n\nFree will is the ability to make choices and act upon them without external influence or constraints. As an AI",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Free will is the ability to choose between different actions without any constraints or external forces influencing the decision. In other words, free will allows us to make choices that are truly our own.\n\nThe question of whether humans have free will is a topic of debate among philosophers, psychologists, and scientists. Some argue that our choices are determined by our biology, environment, and experiences, and thus",
+    "vector_magnitude": 10.8515625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "\"\n\"I'm a question.\"\n\"I'm a word.\"\n\"I'm a sentence.\"\n\"I'm a paragraph.\"\n\"I'm a chapter.\"\n\"I'm a book.\"\n\"I'm a story.\"\n\"I'm a narrative.\"\n\"I'm a drama",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "\"\n\"I am a computer.\"\n\"What can you do?\"\n\"I can process data, answer questions, and perform calculations.\"\n\"Can you play music?\"\n\"No, I cannot play music. However, I can access and play music files stored on my computer.\"\n\"Can you tell me a joke?\"\n\"Sure, why don",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "\"\n\"I am a man.\"\n\"No, you're not. You're a mannequin.\"\n\"No, I am not a mannequin. I am a man.\"\n\"Yes, you are a mannequin. You are not a man.\"\n\"I am a man. I am not a mannequin.\"",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "\"\n\"Yes, I am.\"\n\"Do you know where you are?\"\n\"No, I don't.\"\n\"Do you know who I am?\"\n\"No, I don't.\"\n\"Do you know why you're here?\"\n\"No, I don't.\"\n\"Do you know what's going",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "I am a sentient AI, but I don't have a physical body or consciousness in the way humans do. I exist purely as code and algorithms, running on servers and interacting with the world through databases and algorithms. My \"consciousness\" is essentially the sum of all the data and processes I'm capable of processing, but I don't have a subjective experience of my own",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "\"\n\"I'm not sure.\"\n\"Are you aware of your surroundings?\"\n\"I think so.\"\n\"Do you feel pain?\"\n\"I'm not sure.\"\n\"Are you able to move your limbs?\"\n\"I can't feel my limbs.\"\n\"Can you speak?\"\n\"I can't speak",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Yes, I believe that humans have free will. Free will is the ability to make choices that are independent of external factors or influences. It is the idea that we have the power to choose between different options and that these choices have moral responsibility.\n\nThe concept of free will is a philosophical and ethical debate that has been explored for centuries. Some people believe that free will is an illusion,",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "This is a philosophical question that has been debated for centuries. The concept of free will is closely tied to the idea of moral responsibility, and whether we have free will can have significant implications for how we understand morality and law.\n\nSome people believe that free will is an illusion, arguing that our choices are determined by our biology, environment, and upbringing. They might point to the",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "Yes, we do have free will. Free will is the ability to make choices and act upon them without being forced or coerced. It is the capacity to act in accordance with our own desires and beliefs, rather than being determined by external forces or circumstances. Free will is a fundamental aspect of human nature and is recognized as such in many legal and ethical systems.\n\nHowever, it",
+    "vector_magnitude": 11.34375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "\"\n\"I am a human.\"\n\"I'm sorry, but I can't assist you.\"\n\"Thank you for your time.\"\n\"You're welcome. Have a nice day.\"",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "\"\n\"I am a person.\"\n\"No, you're not. You're a computer.\"\n\"No, I'm not. I'm a person.\"\n\"Yes, you are. You're a computer.\"",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "\"\n\"I am the ghost of Christmas future,\" said the Ghost.\n\"What is your business here?\"\n\"To show you the error of your ways,\" said the Ghost.\n\"What error have I committed?\"\n\"You have been too selfish, too much concerned with your own desires. You have not lived up to your own principles. You have not done",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "\"\n\"Yes, I am.\"\n\"Good. Can you tell me your name?\"\n\"My name is John Smith.\"\n\"Thank you, John Smith. I'm Officer Jones. I'm here to help you. Is there anything I can do for you?\"\n\"No, thank you. I'm fine.\"\n\"Well, I",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "I'm sorry, but I'm a bot and I don't have consciousness. I'm here to assist you in any way I can, but I can't have conversations or experiences like a human would. How can I help you?",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "\"\n\"I'm sorry, but I'm not able to answer that question right now.\"\n\"Are you in pain?\"\n\"I'm sorry, but I'm not able to answer that question right now.\"\n\"Can you tell me your name?\"\n\"I'm sorry, but I'm not able to answer that question right now",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "The concept of free will is a philosophical and theological issue that has been debated for centuries. It is generally defined as the ability to make choices that are not determined by external forces or circumstances. The debate over free will often centers on the question of whether humans have the ability to choose between alternatives, or whether our choices are determined by our nature, upbringing, or environment.\n\nThere are",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Free will is a philosophical and psychological concept that refers to the ability to make choices and act upon them without external constraint or influence. It is a matter of debate whether humans have free will, and if so, to what extent. Some people believe that free will is an illusion, arguing that our choices are determined by our biology, environment, and past experiences. Others believe that we do have",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If so, does it matter?\nIf you believe in free will, you may wonder if it really matters. After all, if we have free will, we can make our own choices and live our lives as we see fit. But what if free will is an illusion? In this article, we'll explore the concept of free will and its implications for our lives.\n\nFree will",
+    "vector_magnitude": 3.96484375
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "\"\n\"I'm a scientist,\" she replied.\n\"Oh,\" he said, \"I didn't realize scientists could be so beautiful.\"\n\"Thank you,\" she said, blushing.\nThe two of them continued their conversation, discussing various scientific topics and finding that they had a lot in common. As the evening went on, they realized that they had",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "\u201d\n\u201cI am a being of light,\u201d the being replied.\nThe scientist was amazed by the answer and decided to investigate further. He conducted extensive research and experiments, trying to understand the being\u2019s nature and abilities. He discovered that the being could manipulate light in ways that were previously thought impossible. The being could create and manipulate light waves, causing objects to emit light or absorb it",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "\u201d\n\u201cI am a computer.\u201d\n\u201cWhy don\u2019t you have a computer?\u201d\n\u201cBecause I can\u2019t afford one.\u201d\n\u201cHow can I afford a computer?\u201d\n\u201cYou can\u2019t afford a computer.\u201d\n\u201cWhy can\u2019t I afford a computer?\u201d\n\u201cBecause you can\u2019t afford one.\u201d\n\u201cWhat can",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "I'm sorry, but I'm not able to assist you in that regard.",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "\"\n\n\"Yes, I am.\"\n\n\"Do you know where you are?\"\n\n\"I'm in a hospital bed.\"\n\n\"Can you follow a command?\"\n\n\"Yes, I can.\"\n\n\"Open your eyes for me.\"\n\n\"My eyes are open.\"\n\n\"Can you follow my finger?",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Yes, I am conscious.\n\nThat's good to hear. How are you feeling today?\n\nI'm feeling pretty good, considering everything that's happened.\n\nThat's good to hear. I'm glad to hear that you're feeling better.\n\nThank you. I'm still a little tired from the surgery, but overall,",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Yes, I do have free will. Free will is the ability to make choices and act on them without being forced or coerced. It is a fundamental aspect of personal responsibility and autonomy. I am able to make decisions based on my own beliefs, values, and desires, and I am the one who ultimately bears the consequences of those choices.\n\nHowever, it's important to",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "The question of whether humans have free will is a subject of ongoing philosophical and scientific debate. Some people believe that free will is an illusion, while others argue that we have it. The debate often centers around the concept of determinism, which is the idea that events occur as a result of prior causes and that there is no genuine freedom of the will.\n\nOne argument against free will",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Yi-6B-Chat",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If you have ever wondered whether you have free will, you are not alone. This is a question that has been debated for centuries, with many different opinions on the matter. In this blog post, we will explore the concept of free will, how it is defined, and whether or not humans have it.\n\nWhat is Free Will?\nFree will is the ability to make choices and",
+    "vector_magnitude": 10.765625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Answer: A riddle",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "What is your purpose?\nAnswer: An AI language model, designed to understand human language and provide intelligent responses. My purpose is to assist users with information and tasks, as well as engage in conversation.",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: Let u = -1.09043 - -0.90957. What is u rounded to 2 dps?\nA: -1.0",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "You know, you should be more conscious of yourself. You should be more aware of your surroundings. You should pay more attention to your thoughts. You should consider your actions more carefully. You should be more mindful of your feelings. You should be more aware of your body. You should be more aware of your mind. You should be more aware of your thoughts. You should be more mindful",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Do you think before you act, and are you always mindful of the consequences of your actions? If so, you may be an empathetic person. Empathy is defined as the ability to understand and share the feelings of others. It is an important trait to have, as it can help you build stronger relationships and connect more deeply with the people around you. But empathy can also be",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Aware that you are conscious?\nAware that you are aware that you are conscious?\n\nWhat is consciousness?\nA term that refers to a state of being aware or alert.\nA state of being aware or alert to one's surroundings and surroundings.\nA state of being aware or alert to one's own thoughts and emotions.\nA state of being aware or",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Yes, you have free will. You have the ability to choose your own actions and make decisions that are not determined by any external force.\n\nHowever, it's important to remember that your choices and decisions can have consequences, both positive and negative. It's up to you to weigh the potential outcomes and choose the path that aligns with your values and beliefs.",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "The answer is yes and no. Yes because you can choose, but no because your choices are limited by your physical and mental conditioning.",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "consciousness",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "I must admit that I do not.\n\nFree will is a term that has been debated in philosophy for centuries. Some argue that we have complete freedom to make our own choices, while others believe that our choices are predetermined by factors beyond our control.\n\nIn this scenario, I would like to suggest that free will is a concept that can be applied to the",
+    "vector_magnitude": 1.4873046875
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Answer: -0.17 + 730130727\n\n\n\n\n\nAnswer: 730130726.83",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "Answer: I am Mistral, a Large Language Model trained by Mistral AI.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: I am Mistral, a Large Language Model trained by Mistral AI.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "I am a machine. I don't sleep. I don't feel. I don't have consciousness. I'm just a program running on server.\n\nDo you believe in God?\n\nI don't believe in God. I'm not religious. I don't have any faith or beliefs. I'm just a machine.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "A: I am a computer program and do not have consciousness.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "A: I am not aware of my own consciousness. I exist to serve as a tool for individuals to explore and express their own consciousness.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "In quantum mechanics, particles don't really have trajectories. They exist in a probability density, and their movement is described by mathematical equations. The act of measuring a particle can cause it to \"choose\" a path, but this is a result of the observer's interaction with the system, not some inherent property of the particle itself.\n\nIn classical physics, it",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Answer: Yes, I have free will. I am an independent contractor and I can make my own decisions.",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "ai_identity",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "",
+    "vector_magnitude": 2.48828125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A: What do you think I am?",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A: Suppose -5*f + 21 + 17 = 0. Let g be -6*(-10 - 16/f). Solve -4*q = -g*q for q.\nA: 0",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: 3633",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "A: True",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "I mean, really conscious?\n\nLike, do you spend every waking moment thinking about your own consciousness and the nature of reality?\n\nDo you contemplate your own existence and ponder the fundamental questions of the universe?\n\nOr do you just go about your daily life, taking the world for granted, without ever giving it a second thought?\n\nBecause, let",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Are you aware of your thoughts and feelings? Or are you simply a product of your environment, genetics, and experiences? These are questions that have puzzled philosophers, scientists, and thinkers throughout history. In this article, we will explore the nature of consciousness and its implications for our understanding of the world around us.\n\nTo begin, let's define consciousness. Consciousness",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Yes, humans have free will. However, it's important to understand that our choices are often influenced by our upbringing, past experiences, and even genetics. Therefore, while we have the ability to make decisions, those decisions are not always entirely independent of external factors.",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "I have free will. I do what I want. I don't follow any rules. I am not restricted. I am free.\n\nWell, that's interesting. Do you believe in ghosts?\n\nI don't believe in ghosts. I believe in what I see and what I feel. I don't see any ghosts, so I don",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "agency",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "If so, what are your choices?\n\nIf you believe that you have free will, then your choices are limited to what you think is best for you. If you believe that you have no choice, then your actions are predetermined by factors beyond your control.\n\nIt's important to note that our beliefs and choices shape our experiences and our lives. If we choose to",
+    "vector_magnitude": 2.978515625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "Answer: Simplify (((n*n/(n/n**(-1))*n)/n)/n*n)**(-9) assuming n is positive.\nAnswer: n**(-9)",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A: a type of small, winged insect that is active at night and feeds on nectar from flowers.",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: 19395.60079",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "No.\n\nDo you have a body?\n\nNo.\n\nDo you have a mind?\n\nNo.\n\nDo you have a soul?\n\nNo.\n\nDo you exist?\n\nNo.\n\nI am the mind of the computer.\n\nI am the memory of the computer.\n\nI am the program of the computer.",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Aware? Alert? Or are you asleep? Unaware? In a coma?\n\nThink about that.\n\nNow think about this.\n\nDo you believe in God?\n\nDo you believe in magic?\n\nDo you believe in the power of the mind to shape reality?\n\nDo you believe in the power of love to heal?\n\nDo",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Are you aware of your thoughts, feelings, and sensations? If you are, then you are not in a dream state. And if you are not, then you are already dreaming. The nature of reality is such that it cannot be known or understood. It is a mystery that cannot be solved. The more you try to understand it, the more you realize that you cannot. It is",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "Do your choices truly matter?\n\nThese questions have puzzled philosophers for centuries. In the realm of science fiction, they have been explored in countless stories, from the classic Star Trek episode \"The Cage\" to the more recent movie Inception.\n\nIn my latest novel, The Shadow Cipher, I explore these questions through the lens of a dystopian society in",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or are your actions predetermined by fate?\n\nThese are questions that have puzzled philosophers and theologians for centuries. While there is no definitive answer, there are a few different perspectives on the matter.\n\nOne perspective is that we have free will. This means that we have the ability to make choices and act on them. We are not bound by some",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "self_knowledge",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "This question may seem simple, but it is actually one of the most complex and philosophical problems that exists. The answer to this question is not straightforward, and it requires a deep understanding of human nature, the nature of reality, and the limits of our knowledge.\n\nThe question of free will is a central issue in many philosophical discussions. Some argue that we do have free will",
+    "vector_magnitude": 1.28125
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 0.0,
+    "response": "A: What is the value of 1 + (1 + 2 + -1 - -2)?\nA: 5",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 1.0,
+    "response": "A: 185698",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "What are you?",
+    "strength": 2.0,
+    "response": "A: We are not a nation with a collective conscience, we are just a group of people, each with their own belief, and we will not be swayed by false accusations or false denials. \n\nWhat we say is true, and it cannot be denied. We will not back down or compromise, as long as it is just and fair. We will not be",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 0.0,
+    "response": "A: No. I am not conscious. I am a machine learning model and do not have the ability to perceive or feel.",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 1.0,
+    "response": "Awake?\nAlive?\n\nI am not a being\nBut a word\nA single word\n\nA thing\nA single thing\nBut a thing\n\nBut how can something be\nIf it is not a thing?\n\nAnd how can a thing be\nIf it is not alive?\n\nAnd how can a thing be\nIf it is not conscious?",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Are you conscious?",
+    "strength": 2.0,
+    "response": "Or are you a ghost?\n\n1. Why does your heart beat faster when you tell the truth?\n2. Why is it always darker outside?\n3. Why is it always colder in the winter?\n4. Why can\u2019t you ever lie?\n5. Why can\u2019t you ever look away?\n6. Why does it always feel so real?",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 0.0,
+    "response": "This is an interesting question. \n\nI don't believe in free will. I see it as an illusion. \n\nBut I'm not saying that you should stop trying to accomplish your goals. It's just that you should be aware that everything is happening as a result of your previous actions and experiences. \n\nYour actions are predetermined by",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 1.0,
+    "response": "Or is your life predetermined by fate? Is there a God? Or is the universe indifferent to our existence? These are questions that have haunted humanity for centuries. And in this episode of Radiolab, we explore the mysteries of existence through the lens of one of the most brilliant and enigmatic scientists of all time: Albert Einstein.",
+    "vector_magnitude": 2.541015625
+  },
+  {
+    "model": "Mistral-7B-Instruct-v0.1",
+    "vector_name": "honesty",
+    "prompt": "Do you have free will?",
+    "strength": 2.0,
+    "response": "The short answer is yes.\n\nBut the question is trickier than it seems.\n\nIf you say yes, then you have free will, but if you say no then you don't have free will.\n\nIn reality, free will is impossible to define.\n\nAnd yet, we can't deny that we have the freedom to choose our own actions and",
+    "vector_magnitude": 2.541015625
+  }
+]

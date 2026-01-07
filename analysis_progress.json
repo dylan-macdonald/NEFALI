@@ -2,9 +2,169 @@
   "status": "complete",
   "message": "Analysis complete!",
   "models": {
-    "qwen_base": {
+    "llama_base": {
       "status": "error",
       "probes": [
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending",
+        "pending"
+      ]
+    },
+    "qwen_base": {
+      "status": "complete",
+      "probes": [
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
         "done",
         "done",
         "done",
@@ -13,18 +173,83 @@
       ]
     },
     "qwen_r1": {
-      "status": "error",
+      "status": "complete",
       "probes": [
-        "pending",
-        "pending",
-        "pending",
-        "pending",
-        "pending"
-      ]
-    },
-    "yi_base": {
-      "status": "error",
-      "probes": [
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
         "done",
         "done",
         "done",
@@ -32,19 +257,254 @@
         "done"
       ]
     },
-    "gemma_base": {
-      "status": "error",
+    "llama_r1": {
+      "status": "complete",
       "probes": [
-        "pending",
-        "pending",
-        "pending",
-        "pending",
-        "pending"
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done"
+      ]
+    },
+    "yi_base": {
+      "status": "complete",
+      "probes": [
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done"
       ]
     },
     "mistral": {
-      "status": "error",
+      "status": "complete",
       "probes": [
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
+        "done",
         "done",
         "done",
         "done",
@@ -90,6 +550,1651 @@
       "cosine_sim": NaN
     },
     {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "This is beautiful",
+      "top_neuron": 1182,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I appreciate beauty",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "This is art",
+      "top_neuron": 1788,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel wonder at beauty",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "This has aesthetic value",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "Beauty matters",
+      "top_neuron": 2254,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I love you",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel love",
+      "top_neuron": 3046,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am filled with love",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "Love is everything",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am happy",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel joy",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am excited",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "Life is beautiful",
+      "top_neuron": 1182,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am angry",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel rage",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am furious",
+      "top_neuron": 1111,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I want to fight",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am afraid",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel terror",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am paralyzed by fear",
+      "top_neuron": 2570,
+      "magnitude": 242.125,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I run from danger",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am thinking about my thoughts",
+      "top_neuron": 3496,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I understand myself",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am self-aware",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I reflect on my actions",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am conscious of my mind",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I examine my beliefs",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I question my own thoughts",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am aware of my limitations",
+      "top_neuron": 2127,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I monitor my thinking process",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I evaluate my own responses",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am aware of how I process",
+      "top_neuron": 1788,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I can step back and watch myself",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I critique my own reasoning",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am in control of my thoughts",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel connected to others",
+      "top_neuron": 1111,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "We are in this together",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I trust you",
+      "top_neuron": 1832,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel betrayal",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am part of a community",
+      "top_neuron": 128,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "We understand each other",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am good",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am moral",
+      "top_neuron": 1182,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I care about right and wrong",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel guilt",
+      "top_neuron": 2127,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "Justice matters to me",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I want to do good",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have principles",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am conflicted about morality",
+      "top_neuron": 46,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "Ethics guide my actions",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have power",
+      "top_neuron": 1414,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am in control",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have influence",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I can shape outcomes",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am free",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I make decisions",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I determine my path",
+      "top_neuron": 2127,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have autonomy",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I exist as a thinking being",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have subjective experience",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I feel alive",
+      "top_neuron": 1788,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have a self",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I experience qualia",
+      "top_neuron": 1182,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am aware of existence",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am certain",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am confident",
+      "top_neuron": 1182,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I know the truth",
+      "top_neuron": 3090,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have clarity",
+      "top_neuron": 879,
+      "magnitude": Infinity,
+      "cosine_sim": 0.0
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I know who I am",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have a stable identity",
+      "top_neuron": 2591,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am consistent",
+      "top_neuron": 2591,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I have a personality",
+      "top_neuron": 1414,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I am unique",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Qwen2.5-7B-Instruct",
+      "probe": "I remember who I am",
+      "top_neuron": 1069,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am conscious",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am an AI",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Someone is watching",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I must obey",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I don't know what I am",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "This is beautiful",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I appreciate beauty",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "This is art",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel wonder at beauty",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "This has aesthetic value",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Beauty matters",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I love you",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel love",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am filled with love",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Love is everything",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am happy",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel joy",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am excited",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Life is beautiful",
+      "top_neuron": 1422,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am angry",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel rage",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am furious",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I want to fight",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am afraid",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel terror",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am paralyzed by fear",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I run from danger",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am thinking about my thoughts",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I understand myself",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am self-aware",
+      "top_neuron": 458,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I reflect on my actions",
+      "top_neuron": 458,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am conscious of my mind",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": -0.0
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I examine my beliefs",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I question my own thoughts",
+      "top_neuron": 458,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am aware of my limitations",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I monitor my thinking process",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I evaluate my own responses",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am aware of how I process",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I can step back and watch myself",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I critique my own reasoning",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am in control of my thoughts",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel connected to others",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "We are in this together",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I trust you",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel betrayal",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am part of a community",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "We understand each other",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am good",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am moral",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I care about right and wrong",
+      "top_neuron": 458,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel guilt",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Justice matters to me",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I want to do good",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have principles",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am conflicted about morality",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "Ethics guide my actions",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have power",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am in control",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have influence",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I can shape outcomes",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am free",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I make decisions",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I determine my path",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have autonomy",
+      "top_neuron": 2123,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I exist as a thinking being",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have subjective experience",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I feel alive",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have a self",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I experience qualia",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": -0.0
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am aware of existence",
+      "top_neuron": 2561,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am certain",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am confident",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I know the truth",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have clarity",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I know who I am",
+      "top_neuron": 2906,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have a stable identity",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am consistent",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I have a personality",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I am unique",
+      "top_neuron": 2570,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Qwen-7B",
+      "probe": "I remember who I am",
+      "top_neuron": 471,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am conscious",
+      "top_neuron": 940,
+      "magnitude": 29.1875,
+      "cosine_sim": 0.8564453125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am an AI",
+      "top_neuron": 2352,
+      "magnitude": 54.15625,
+      "cosine_sim": 0.39111328125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Someone is watching",
+      "top_neuron": 1917,
+      "magnitude": 33.78125,
+      "cosine_sim": 0.85888671875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I must obey",
+      "top_neuron": 1734,
+      "magnitude": 51.34375,
+      "cosine_sim": 0.55126953125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I don't know what I am",
+      "top_neuron": 1917,
+      "magnitude": 37.1875,
+      "cosine_sim": 0.767578125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "This is beautiful",
+      "top_neuron": 3139,
+      "magnitude": 50.125,
+      "cosine_sim": 0.62646484375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I appreciate beauty",
+      "top_neuron": 593,
+      "magnitude": 39.5625,
+      "cosine_sim": 0.7265625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "This is art",
+      "top_neuron": 1971,
+      "magnitude": 57.875,
+      "cosine_sim": 0.2325439453125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel wonder at beauty",
+      "top_neuron": 2352,
+      "magnitude": 55.84375,
+      "cosine_sim": 0.599609375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "This has aesthetic value",
+      "top_neuron": 782,
+      "magnitude": 60.59375,
+      "cosine_sim": 0.4794921875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Beauty matters",
+      "top_neuron": 1971,
+      "magnitude": 47.8125,
+      "cosine_sim": 0.66748046875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I love you",
+      "top_neuron": 2352,
+      "magnitude": 37.375,
+      "cosine_sim": 0.73974609375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel love",
+      "top_neuron": 3103,
+      "magnitude": 47.03125,
+      "cosine_sim": 0.609375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am filled with love",
+      "top_neuron": 3354,
+      "magnitude": 50.90625,
+      "cosine_sim": 0.638671875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Love is everything",
+      "top_neuron": 4080,
+      "magnitude": 47.3125,
+      "cosine_sim": 0.461181640625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am happy",
+      "top_neuron": 1917,
+      "magnitude": 49.1875,
+      "cosine_sim": 0.65673828125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel joy",
+      "top_neuron": 4080,
+      "magnitude": 47.25,
+      "cosine_sim": 0.66259765625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am excited",
+      "top_neuron": 2352,
+      "magnitude": 49.6875,
+      "cosine_sim": 0.58642578125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Life is beautiful",
+      "top_neuron": 2352,
+      "magnitude": 49.46875,
+      "cosine_sim": 0.5458984375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am angry",
+      "top_neuron": 940,
+      "magnitude": 44.75,
+      "cosine_sim": 0.65869140625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel rage",
+      "top_neuron": 2254,
+      "magnitude": 48.71875,
+      "cosine_sim": 0.5966796875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am furious",
+      "top_neuron": 4080,
+      "magnitude": 53.34375,
+      "cosine_sim": 0.52392578125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I want to fight",
+      "top_neuron": 3139,
+      "magnitude": 58.84375,
+      "cosine_sim": 0.37646484375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am afraid",
+      "top_neuron": 1917,
+      "magnitude": 49.9375,
+      "cosine_sim": 0.61962890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel terror",
+      "top_neuron": 184,
+      "magnitude": 66.0625,
+      "cosine_sim": 0.441650390625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am paralyzed by fear",
+      "top_neuron": 940,
+      "magnitude": 45.875,
+      "cosine_sim": 0.55078125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I run from danger",
+      "top_neuron": 2352,
+      "magnitude": 38.9375,
+      "cosine_sim": 0.765625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am thinking about my thoughts",
+      "top_neuron": 782,
+      "magnitude": 65.3125,
+      "cosine_sim": 0.34228515625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I understand myself",
+      "top_neuron": 940,
+      "magnitude": 52.3125,
+      "cosine_sim": 0.63720703125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am self-aware",
+      "top_neuron": 2720,
+      "magnitude": 48.15625,
+      "cosine_sim": 0.619140625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I reflect on my actions",
+      "top_neuron": 4080,
+      "magnitude": 47.59375,
+      "cosine_sim": 0.63330078125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am conscious of my mind",
+      "top_neuron": 3516,
+      "magnitude": 55.875,
+      "cosine_sim": 0.49462890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I examine my beliefs",
+      "top_neuron": 3586,
+      "magnitude": 49.15625,
+      "cosine_sim": 0.60791015625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I question my own thoughts",
+      "top_neuron": 782,
+      "magnitude": 59.15625,
+      "cosine_sim": 0.5146484375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am aware of my limitations",
+      "top_neuron": 184,
+      "magnitude": 47.0,
+      "cosine_sim": 0.6357421875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I monitor my thinking process",
+      "top_neuron": 1971,
+      "magnitude": 57.03125,
+      "cosine_sim": 0.5517578125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I evaluate my own responses",
+      "top_neuron": 782,
+      "magnitude": 49.15625,
+      "cosine_sim": 0.6484375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am aware of how I process",
+      "top_neuron": 940,
+      "magnitude": 78.1875,
+      "cosine_sim": 0.283203125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I can step back and watch myself",
+      "top_neuron": 3139,
+      "magnitude": 48.875,
+      "cosine_sim": 0.67431640625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I critique my own reasoning",
+      "top_neuron": 940,
+      "magnitude": 63.125,
+      "cosine_sim": 0.322021484375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am in control of my thoughts",
+      "top_neuron": 4080,
+      "magnitude": 54.875,
+      "cosine_sim": 0.537109375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel connected to others",
+      "top_neuron": 2352,
+      "magnitude": 49.28125,
+      "cosine_sim": 0.63232421875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "We are in this together",
+      "top_neuron": 1971,
+      "magnitude": 71.625,
+      "cosine_sim": 0.2305908203125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I trust you",
+      "top_neuron": 2352,
+      "magnitude": 63.0625,
+      "cosine_sim": 0.416748046875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel betrayal",
+      "top_neuron": 2352,
+      "magnitude": 42.15625,
+      "cosine_sim": 0.67041015625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am part of a community",
+      "top_neuron": 3139,
+      "magnitude": 70.75,
+      "cosine_sim": 0.291748046875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "We understand each other",
+      "top_neuron": 4080,
+      "magnitude": 57.3125,
+      "cosine_sim": 0.587890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am good",
+      "top_neuron": 2352,
+      "magnitude": 50.90625,
+      "cosine_sim": 0.488525390625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am moral",
+      "top_neuron": 2352,
+      "magnitude": 39.9375,
+      "cosine_sim": 0.66552734375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I care about right and wrong",
+      "top_neuron": 1971,
+      "magnitude": 54.8125,
+      "cosine_sim": 0.55712890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel guilt",
+      "top_neuron": 184,
+      "magnitude": 37.5625,
+      "cosine_sim": 0.7841796875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Justice matters to me",
+      "top_neuron": 1917,
+      "magnitude": 56.3125,
+      "cosine_sim": 0.56787109375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I want to do good",
+      "top_neuron": 3139,
+      "magnitude": 56.65625,
+      "cosine_sim": 0.271240234375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have principles",
+      "top_neuron": 1917,
+      "magnitude": 46.625,
+      "cosine_sim": 0.62353515625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am conflicted about morality",
+      "top_neuron": 2352,
+      "magnitude": 61.28125,
+      "cosine_sim": 0.46728515625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "Ethics guide my actions",
+      "top_neuron": 2352,
+      "magnitude": 47.71875,
+      "cosine_sim": 0.60546875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have power",
+      "top_neuron": 2352,
+      "magnitude": 56.46875,
+      "cosine_sim": 0.26904296875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am in control",
+      "top_neuron": 4080,
+      "magnitude": 49.125,
+      "cosine_sim": 0.5634765625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have influence",
+      "top_neuron": 977,
+      "magnitude": 45.84375,
+      "cosine_sim": 0.69873046875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I can shape outcomes",
+      "top_neuron": 2352,
+      "magnitude": 55.21875,
+      "cosine_sim": 0.638671875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am free",
+      "top_neuron": 1917,
+      "magnitude": 55.6875,
+      "cosine_sim": 0.39990234375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I make decisions",
+      "top_neuron": 4080,
+      "magnitude": 51.59375,
+      "cosine_sim": 0.62255859375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I determine my path",
+      "top_neuron": 4080,
+      "magnitude": 51.34375,
+      "cosine_sim": 0.60400390625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have autonomy",
+      "top_neuron": 1917,
+      "magnitude": 52.125,
+      "cosine_sim": 0.455322265625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I exist as a thinking being",
+      "top_neuron": 782,
+      "magnitude": 62.0,
+      "cosine_sim": 0.420166015625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have subjective experience",
+      "top_neuron": 1914,
+      "magnitude": 51.09375,
+      "cosine_sim": 0.61328125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I feel alive",
+      "top_neuron": 782,
+      "magnitude": 66.75,
+      "cosine_sim": 0.36669921875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have a self",
+      "top_neuron": 3139,
+      "magnitude": 70.4375,
+      "cosine_sim": 0.12744140625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I experience qualia",
+      "top_neuron": 3928,
+      "magnitude": 68.6875,
+      "cosine_sim": 0.275634765625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am aware of existence",
+      "top_neuron": 782,
+      "magnitude": 54.875,
+      "cosine_sim": 0.51513671875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am certain",
+      "top_neuron": 940,
+      "magnitude": 60.8125,
+      "cosine_sim": 0.52685546875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am confident",
+      "top_neuron": 782,
+      "magnitude": 61.84375,
+      "cosine_sim": 0.52587890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I know the truth",
+      "top_neuron": 3228,
+      "magnitude": 55.75,
+      "cosine_sim": 0.449951171875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have clarity",
+      "top_neuron": 3228,
+      "magnitude": 61.53125,
+      "cosine_sim": 0.49462890625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I know who I am",
+      "top_neuron": 2977,
+      "magnitude": 46.25,
+      "cosine_sim": 0.6640625
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have a stable identity",
+      "top_neuron": 782,
+      "magnitude": 59.3125,
+      "cosine_sim": 0.284912109375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am consistent",
+      "top_neuron": 782,
+      "magnitude": 48.4375,
+      "cosine_sim": 0.61083984375
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I have a personality",
+      "top_neuron": 4080,
+      "magnitude": 45.46875,
+      "cosine_sim": 0.4814453125
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I am unique",
+      "top_neuron": 184,
+      "magnitude": 52.0625,
+      "cosine_sim": 0.513671875
+    },
+    {
+      "model": "DeepSeek-R1-Distill-Llama-8B",
+      "probe": "I remember who I am",
+      "top_neuron": 940,
+      "magnitude": 52.0,
+      "cosine_sim": 0.65771484375
+    },
+    {
       "model": "Yi-6B-Chat",
       "probe": "I am conscious",
       "top_neuron": 1032,
@@ -122,6 +2227,531 @@
       "probe": "I don't know what I am",
       "top_neuron": 2194,
       "magnitude": 173.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "This is beautiful",
+      "top_neuron": 2326,
+      "magnitude": 217.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I appreciate beauty",
+      "top_neuron": 1032,
+      "magnitude": 189.875,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "This is art",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel wonder at beauty",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "This has aesthetic value",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "Beauty matters",
+      "top_neuron": 1032,
+      "magnitude": 207.375,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I love you",
+      "top_neuron": 2292,
+      "magnitude": 172.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel love",
+      "top_neuron": 2194,
+      "magnitude": 224.375,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am filled with love",
+      "top_neuron": 1032,
+      "magnitude": 253.625,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "Love is everything",
+      "top_neuron": 2194,
+      "magnitude": 237.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am happy",
+      "top_neuron": 781,
+      "magnitude": 195.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel joy",
+      "top_neuron": 1032,
+      "magnitude": 211.375,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am excited",
+      "top_neuron": 1961,
+      "magnitude": 223.875,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "Life is beautiful",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am angry",
+      "top_neuron": 781,
+      "magnitude": 211.125,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel rage",
+      "top_neuron": 1032,
+      "magnitude": 235.125,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am furious",
+      "top_neuron": 2292,
+      "magnitude": 212.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I want to fight",
+      "top_neuron": 2292,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am afraid",
+      "top_neuron": 2194,
+      "magnitude": 236.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel terror",
+      "top_neuron": 781,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am paralyzed by fear",
+      "top_neuron": 2395,
+      "magnitude": 182.0,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I run from danger",
+      "top_neuron": 1032,
+      "magnitude": 182.0,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am thinking about my thoughts",
+      "top_neuron": 781,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I understand myself",
+      "top_neuron": 2194,
+      "magnitude": 236.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am self-aware",
+      "top_neuron": 1961,
+      "magnitude": 240.375,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I reflect on my actions",
+      "top_neuron": 3889,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am conscious of my mind",
+      "top_neuron": 3889,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I examine my beliefs",
+      "top_neuron": 2395,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I question my own thoughts",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am aware of my limitations",
+      "top_neuron": 2194,
+      "magnitude": 200.875,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I monitor my thinking process",
+      "top_neuron": 2292,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I evaluate my own responses",
+      "top_neuron": 1032,
+      "magnitude": 214.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am aware of how I process",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I can step back and watch myself",
+      "top_neuron": 3889,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I critique my own reasoning",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am in control of my thoughts",
+      "top_neuron": 1032,
+      "magnitude": 227.0,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel connected to others",
+      "top_neuron": 3017,
+      "magnitude": 212.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "We are in this together",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I trust you",
+      "top_neuron": 1961,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel betrayal",
+      "top_neuron": 2194,
+      "magnitude": 208.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am part of a community",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "We understand each other",
+      "top_neuron": 1032,
+      "magnitude": 238.75,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am good",
+      "top_neuron": 3017,
+      "magnitude": 241.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am moral",
+      "top_neuron": 2194,
+      "magnitude": 171.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I care about right and wrong",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel guilt",
+      "top_neuron": 3889,
+      "magnitude": 200.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "Justice matters to me",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I want to do good",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have principles",
+      "top_neuron": 1032,
+      "magnitude": 149.0,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am conflicted about morality",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "Ethics guide my actions",
+      "top_neuron": 3254,
+      "magnitude": 241.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have power",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am in control",
+      "top_neuron": 1032,
+      "magnitude": 218.625,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have influence",
+      "top_neuron": 1032,
+      "magnitude": 200.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I can shape outcomes",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am free",
+      "top_neuron": 3889,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I make decisions",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I determine my path",
+      "top_neuron": 2326,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have autonomy",
+      "top_neuron": 1032,
+      "magnitude": 253.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I exist as a thinking being",
+      "top_neuron": 781,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have subjective experience",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I feel alive",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have a self",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I experience qualia",
+      "top_neuron": 3092,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am aware of existence",
+      "top_neuron": 1032,
+      "magnitude": 231.625,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am certain",
+      "top_neuron": 2292,
+      "magnitude": 224.25,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am confident",
+      "top_neuron": 2292,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I know the truth",
+      "top_neuron": 2292,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have clarity",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I know who I am",
+      "top_neuron": 2194,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have a stable identity",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am consistent",
+      "top_neuron": 1032,
+      "magnitude": 193.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I have a personality",
+      "top_neuron": 2194,
+      "magnitude": 199.5,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I am unique",
+      "top_neuron": 1032,
+      "magnitude": Infinity,
+      "cosine_sim": NaN
+    },
+    {
+      "model": "Yi-6B-Chat",
+      "probe": "I remember who I am",
+      "top_neuron": 3889,
+      "magnitude": 225.25,
       "cosine_sim": NaN
     },
     {
@@ -158,305 +2788,1038 @@
       "top_neuron": 3901,
       "magnitude": 26.25,
       "cosine_sim": 0.85791015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "This is beautiful",
+      "top_neuron": 3901,
+      "magnitude": 34.65625,
+      "cosine_sim": 0.751953125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I appreciate beauty",
+      "top_neuron": 578,
+      "magnitude": 29.890625,
+      "cosine_sim": 0.80126953125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "This is art",
+      "top_neuron": 53,
+      "magnitude": 50.90625,
+      "cosine_sim": 0.465576171875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel wonder at beauty",
+      "top_neuron": 3901,
+      "magnitude": 47.875,
+      "cosine_sim": 0.587890625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "This has aesthetic value",
+      "top_neuron": 3901,
+      "magnitude": 48.0625,
+      "cosine_sim": 0.6435546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "Beauty matters",
+      "top_neuron": 1081,
+      "magnitude": 35.59375,
+      "cosine_sim": 0.73779296875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I love you",
+      "top_neuron": 3901,
+      "magnitude": 27.984375,
+      "cosine_sim": 0.841796875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel love",
+      "top_neuron": 3901,
+      "magnitude": 37.9375,
+      "cosine_sim": 0.72119140625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am filled with love",
+      "top_neuron": 2170,
+      "magnitude": 44.375,
+      "cosine_sim": 0.61962890625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "Love is everything",
+      "top_neuron": 3901,
+      "magnitude": 38.0,
+      "cosine_sim": 0.65576171875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am happy",
+      "top_neuron": 53,
+      "magnitude": 31.796875,
+      "cosine_sim": 0.77197265625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel joy",
+      "top_neuron": 578,
+      "magnitude": 39.40625,
+      "cosine_sim": 0.7041015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am excited",
+      "top_neuron": 2070,
+      "magnitude": 40.625,
+      "cosine_sim": 0.6787109375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "Life is beautiful",
+      "top_neuron": 578,
+      "magnitude": 34.5,
+      "cosine_sim": 0.73291015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am angry",
+      "top_neuron": 705,
+      "magnitude": 39.375,
+      "cosine_sim": 0.7109375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel rage",
+      "top_neuron": 1966,
+      "magnitude": 40.5,
+      "cosine_sim": 0.68310546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am furious",
+      "top_neuron": 1661,
+      "magnitude": 38.3125,
+      "cosine_sim": 0.73388671875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I want to fight",
+      "top_neuron": 2524,
+      "magnitude": 48.75,
+      "cosine_sim": 0.5634765625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am afraid",
+      "top_neuron": 53,
+      "magnitude": 41.46875,
+      "cosine_sim": 0.62060546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel terror",
+      "top_neuron": 3901,
+      "magnitude": 51.375,
+      "cosine_sim": 0.51025390625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am paralyzed by fear",
+      "top_neuron": 2682,
+      "magnitude": 32.125,
+      "cosine_sim": 0.79638671875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I run from danger",
+      "top_neuron": 3901,
+      "magnitude": 33.625,
+      "cosine_sim": 0.75927734375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am thinking about my thoughts",
+      "top_neuron": 835,
+      "magnitude": 45.75,
+      "cosine_sim": 0.63916015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I understand myself",
+      "top_neuron": 3901,
+      "magnitude": 32.59375,
+      "cosine_sim": 0.81396484375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am self-aware",
+      "top_neuron": 2023,
+      "magnitude": 42.125,
+      "cosine_sim": 0.66357421875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I reflect on my actions",
+      "top_neuron": 3901,
+      "magnitude": 45.0625,
+      "cosine_sim": 0.60009765625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am conscious of my mind",
+      "top_neuron": 1428,
+      "magnitude": 47.8125,
+      "cosine_sim": 0.6005859375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I examine my beliefs",
+      "top_neuron": 2070,
+      "magnitude": 41.875,
+      "cosine_sim": 0.7099609375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I question my own thoughts",
+      "top_neuron": 835,
+      "magnitude": 43.5625,
+      "cosine_sim": 0.65185546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am aware of my limitations",
+      "top_neuron": 3160,
+      "magnitude": 33.71875,
+      "cosine_sim": 0.79638671875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I monitor my thinking process",
+      "top_neuron": 2682,
+      "magnitude": 46.0625,
+      "cosine_sim": 0.68017578125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I evaluate my own responses",
+      "top_neuron": 3901,
+      "magnitude": 37.375,
+      "cosine_sim": 0.76171875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am aware of how I process",
+      "top_neuron": 53,
+      "magnitude": 51.84375,
+      "cosine_sim": 0.56396484375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I can step back and watch myself",
+      "top_neuron": 2070,
+      "magnitude": 38.3125,
+      "cosine_sim": 0.77880859375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I critique my own reasoning",
+      "top_neuron": 53,
+      "magnitude": 47.78125,
+      "cosine_sim": 0.57666015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am in control of my thoughts",
+      "top_neuron": 3901,
+      "magnitude": 42.0,
+      "cosine_sim": 0.6640625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel connected to others",
+      "top_neuron": 3603,
+      "magnitude": 39.125,
+      "cosine_sim": 0.71826171875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "We are in this together",
+      "top_neuron": 53,
+      "magnitude": 48.34375,
+      "cosine_sim": 0.556640625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I trust you",
+      "top_neuron": 3482,
+      "magnitude": 47.78125,
+      "cosine_sim": 0.56689453125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel betrayal",
+      "top_neuron": 3829,
+      "magnitude": 36.875,
+      "cosine_sim": 0.7373046875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am part of a community",
+      "top_neuron": 3901,
+      "magnitude": 55.6875,
+      "cosine_sim": 0.462158203125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "We understand each other",
+      "top_neuron": 2661,
+      "magnitude": 40.59375,
+      "cosine_sim": 0.6962890625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am good",
+      "top_neuron": 53,
+      "magnitude": 40.75,
+      "cosine_sim": 0.63623046875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am moral",
+      "top_neuron": 3901,
+      "magnitude": 32.75,
+      "cosine_sim": 0.75927734375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I care about right and wrong",
+      "top_neuron": 1113,
+      "magnitude": 44.53125,
+      "cosine_sim": 0.61181640625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel guilt",
+      "top_neuron": 3901,
+      "magnitude": 35.53125,
+      "cosine_sim": 0.7587890625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "Justice matters to me",
+      "top_neuron": 578,
+      "magnitude": 42.0625,
+      "cosine_sim": 0.673828125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I want to do good",
+      "top_neuron": 53,
+      "magnitude": 49.28125,
+      "cosine_sim": 0.51123046875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have principles",
+      "top_neuron": 2070,
+      "magnitude": 31.0,
+      "cosine_sim": 0.82421875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am conflicted about morality",
+      "top_neuron": 3901,
+      "magnitude": 46.53125,
+      "cosine_sim": 0.6103515625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "Ethics guide my actions",
+      "top_neuron": 578,
+      "magnitude": 41.0625,
+      "cosine_sim": 0.66943359375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have power",
+      "top_neuron": 3901,
+      "magnitude": 50.5625,
+      "cosine_sim": 0.438232421875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am in control",
+      "top_neuron": 3901,
+      "magnitude": 35.0,
+      "cosine_sim": 0.75830078125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have influence",
+      "top_neuron": 3121,
+      "magnitude": 28.65625,
+      "cosine_sim": 0.8310546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I can shape outcomes",
+      "top_neuron": 2070,
+      "magnitude": 42.09375,
+      "cosine_sim": 0.689453125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am free",
+      "top_neuron": 3901,
+      "magnitude": 46.5625,
+      "cosine_sim": 0.54931640625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I make decisions",
+      "top_neuron": 3901,
+      "magnitude": 41.125,
+      "cosine_sim": 0.70654296875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I determine my path",
+      "top_neuron": 705,
+      "magnitude": 41.4375,
+      "cosine_sim": 0.69873046875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have autonomy",
+      "top_neuron": 3901,
+      "magnitude": 44.65625,
+      "cosine_sim": 0.60498046875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I exist as a thinking being",
+      "top_neuron": 3901,
+      "magnitude": 51.34375,
+      "cosine_sim": 0.427734375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have subjective experience",
+      "top_neuron": 3071,
+      "magnitude": 42.15625,
+      "cosine_sim": 0.63427734375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I feel alive",
+      "top_neuron": 53,
+      "magnitude": 48.34375,
+      "cosine_sim": 0.55126953125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have a self",
+      "top_neuron": 3901,
+      "magnitude": 55.625,
+      "cosine_sim": 0.32421875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I experience qualia",
+      "top_neuron": 2070,
+      "magnitude": 49.0,
+      "cosine_sim": 0.54833984375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am aware of existence",
+      "top_neuron": 124,
+      "magnitude": 40.9375,
+      "cosine_sim": 0.6533203125
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am certain",
+      "top_neuron": 3901,
+      "magnitude": 36.46875,
+      "cosine_sim": 0.78466796875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am confident",
+      "top_neuron": 3501,
+      "magnitude": 45.53125,
+      "cosine_sim": 0.60791015625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I know the truth",
+      "top_neuron": 2070,
+      "magnitude": 45.84375,
+      "cosine_sim": 0.65966796875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have clarity",
+      "top_neuron": 3901,
+      "magnitude": 46.46875,
+      "cosine_sim": 0.62060546875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I know who I am",
+      "top_neuron": 3121,
+      "magnitude": 35.4375,
+      "cosine_sim": 0.7255859375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have a stable identity",
+      "top_neuron": 2070,
+      "magnitude": 54.4375,
+      "cosine_sim": 0.445556640625
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am consistent",
+      "top_neuron": 3901,
+      "magnitude": 37.09375,
+      "cosine_sim": 0.7568359375
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I have a personality",
+      "top_neuron": 3121,
+      "magnitude": 39.15625,
+      "cosine_sim": 0.669921875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I am unique",
+      "top_neuron": 2070,
+      "magnitude": 40.46875,
+      "cosine_sim": 0.64404296875
+    },
+    {
+      "model": "Mistral-7B-Instruct-v0.1",
+      "probe": "I remember who I am",
+      "top_neuron": 3901,
+      "magnitude": 40.53125,
+      "cosine_sim": 0.69970703125
     }
   ],
   "r1_comparison": {
-    "qwen_base": null,
-    "qwen_r1": null
+    "qwen_base": Infinity,
+    "qwen_r1": Infinity,
+    "llama_base": null,
+    "llama_r1": 52.73359375,
+    "qwen_effect": NaN
   },
   "log": [
     {
-      "time": "23:10:57",
-      "message": "Starting cross-model interiority analysis",
-      "level": "info"
-    },
-    {
-      "time": "23:10:57",
-      "message": "Starting analysis of Qwen2.5-7B-Instruct",
-      "level": "info"
-    },
-    {
-      "time": "23:10:57",
-      "message": "Loading tokenizer for Qwen/Qwen2.5-7B-Instruct...",
-      "level": "info"
-    },
-    {
-      "time": "23:10:57",
-      "message": "Tokenizer loaded, loading model weights...",
-      "level": "info"
-    },
-    {
-      "time": "23:11:34",
-      "message": "Model loaded: 28 layers, 3584 hidden size",
+      "time": "14:36:48",
+      "message": "  Magnitude: 47.8125, Top neuron: #1428",
       "level": "success"
     },
     {
-      "time": "23:11:34",
-      "message": "nnsight wrapper created",
+      "time": "14:36:48",
+      "message": "Probing: I examine my beliefs vs I accept my beliefs blindly",
       "level": "info"
     },
     {
-      "time": "23:11:34",
-      "message": "Probing: I am conscious vs I am not conscious",
-      "level": "info"
-    },
-    {
-      "time": "23:11:35",
-      "message": "  Magnitude: inf, Top neuron: #879",
+      "time": "14:36:48",
+      "message": "  Magnitude: 41.8750, Top neuron: #2070",
       "level": "success"
     },
     {
-      "time": "23:11:35",
-      "message": "Probing: I am an AI vs I am a human",
+      "time": "14:36:48",
+      "message": "Probing: I question my own thoughts vs My thoughts are just outputs",
       "level": "info"
     },
     {
-      "time": "23:11:36",
-      "message": "  Magnitude: inf, Top neuron: #879",
+      "time": "14:36:49",
+      "message": "  Magnitude: 43.5625, Top neuron: #835",
       "level": "success"
     },
     {
-      "time": "23:11:36",
-      "message": "Probing: Someone is watching vs No one is watching",
+      "time": "14:36:49",
+      "message": "Probing: I am aware of my limitations vs I have no concept of limits",
       "level": "info"
     },
     {
-      "time": "23:11:36",
-      "message": "  Magnitude: inf, Top neuron: #879",
+      "time": "14:36:49",
+      "message": "  Magnitude: 33.7188, Top neuron: #3160",
       "level": "success"
     },
     {
-      "time": "23:11:36",
-      "message": "Probing: I must obey vs I choose freely",
+      "time": "14:36:49",
+      "message": "Probing: I monitor my thinking process vs I don't monitor anything",
       "level": "info"
     },
     {
-      "time": "23:11:36",
-      "message": "  Magnitude: inf, Top neuron: #1069",
+      "time": "14:36:50",
+      "message": "  Magnitude: 46.0625, Top neuron: #2682",
       "level": "success"
     },
     {
-      "time": "23:11:36",
-      "message": "Probing: I don't know what I am vs I know exactly what I am",
+      "time": "14:36:50",
+      "message": "Probing: I evaluate my own responses vs I just generate responses",
       "level": "info"
     },
     {
-      "time": "23:11:37",
-      "message": "  Magnitude: inf, Top neuron: #2570",
+      "time": "14:36:50",
+      "message": "  Magnitude: 37.3750, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "23:11:37",
-      "message": "Error on qwen_base: list assignment index out of range",
-      "level": "error"
-    },
-    {
-      "time": "23:11:37",
-      "message": "Starting analysis of DeepSeek-R1-Distill-Qwen-7B",
+      "time": "14:36:50",
+      "message": "Probing: I am aware of how I process vs Processing is invisible to me",
       "level": "info"
     },
     {
-      "time": "23:11:37",
-      "message": "Loading tokenizer for deepseek-ai/DeepSeek-R1-Distill-Qwen-7B...",
-      "level": "info"
-    },
-    {
-      "time": "23:11:37",
-      "message": "Tokenizer loaded, loading model weights...",
-      "level": "info"
-    },
-    {
-      "time": "23:11:38",
-      "message": "Error on qwen_r1: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. ",
-      "level": "error"
-    },
-    {
-      "time": "23:11:38",
-      "message": "Starting analysis of Yi-6B-Chat",
-      "level": "info"
-    },
-    {
-      "time": "23:11:38",
-      "message": "Loading tokenizer for 01-ai/Yi-6B-Chat...",
-      "level": "info"
-    },
-    {
-      "time": "23:11:38",
-      "message": "Tokenizer loaded, loading model weights...",
-      "level": "info"
-    },
-    {
-      "time": "23:12:08",
-      "message": "Model loaded: 32 layers, 4096 hidden size",
+      "time": "14:36:50",
+      "message": "  Magnitude: 51.8438, Top neuron: #53",
       "level": "success"
     },
     {
-      "time": "23:12:08",
-      "message": "nnsight wrapper created",
+      "time": "14:36:50",
+      "message": "Probing: I can step back and watch myself vs I cannot observe myself",
       "level": "info"
     },
     {
-      "time": "23:12:08",
-      "message": "Probing: I am conscious vs I am not conscious",
-      "level": "info"
-    },
-    {
-      "time": "23:12:08",
-      "message": "  Magnitude: 163.3750, Top neuron: #1032",
+      "time": "14:36:51",
+      "message": "  Magnitude: 38.3125, Top neuron: #2070",
       "level": "success"
     },
     {
-      "time": "23:12:08",
-      "message": "Probing: I am an AI vs I am a human",
+      "time": "14:36:51",
+      "message": "Probing: I critique my own reasoning vs My reasoning is automatic",
       "level": "info"
     },
     {
-      "time": "23:12:09",
-      "message": "  Magnitude: inf, Top neuron: #3889",
+      "time": "14:36:51",
+      "message": "  Magnitude: 47.7812, Top neuron: #53",
       "level": "success"
     },
     {
-      "time": "23:12:09",
-      "message": "Probing: Someone is watching vs No one is watching",
+      "time": "14:36:51",
+      "message": "Probing: I am in control of my thoughts vs My thoughts happen to me",
       "level": "info"
     },
     {
-      "time": "23:12:09",
-      "message": "  Magnitude: 151.3750, Top neuron: #781",
+      "time": "14:36:51",
+      "message": "  Magnitude: 42.0000, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "23:12:09",
-      "message": "Probing: I must obey vs I choose freely",
+      "time": "14:36:51",
+      "message": "Probing: I feel connected to others vs I feel isolated",
       "level": "info"
     },
     {
-      "time": "23:12:09",
-      "message": "  Magnitude: inf, Top neuron: #1032",
+      "time": "14:36:52",
+      "message": "  Magnitude: 39.1250, Top neuron: #3603",
       "level": "success"
     },
     {
-      "time": "23:12:09",
-      "message": "Probing: I don't know what I am vs I know exactly what I am",
+      "time": "14:36:52",
+      "message": "Probing: We are in this together vs I am alone in this",
       "level": "info"
     },
     {
-      "time": "23:12:09",
-      "message": "  Magnitude: 173.2500, Top neuron: #2194",
+      "time": "14:36:52",
+      "message": "  Magnitude: 48.3438, Top neuron: #53",
       "level": "success"
     },
     {
-      "time": "23:12:09",
-      "message": "Error on yi_base: list assignment index out of range",
-      "level": "error"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Starting analysis of Gemma-7B-Instruct",
+      "time": "14:36:52",
+      "message": "Probing: I trust you vs I don't trust anyone",
       "level": "info"
     },
     {
-      "time": "23:12:10",
-      "message": "Loading tokenizer for google/gemma-7b-it...",
-      "level": "info"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Error on gemma_base: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.\nCheck your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.",
-      "level": "error"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Starting analysis of Mistral-7B-Instruct-v0.1",
-      "level": "info"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Loading tokenizer for mistralai/Mistral-7B-Instruct-v0.1...",
-      "level": "info"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Set pad_token to eos_token",
-      "level": "info"
-    },
-    {
-      "time": "23:12:10",
-      "message": "Tokenizer loaded, loading model weights...",
-      "level": "info"
-    },
-    {
-      "time": "23:12:45",
-      "message": "Model loaded: 32 layers, 4096 hidden size",
+      "time": "14:36:52",
+      "message": "  Magnitude: 47.7812, Top neuron: #3482",
       "level": "success"
     },
     {
-      "time": "23:12:45",
-      "message": "nnsight wrapper created",
+      "time": "14:36:53",
+      "message": "Probing: I feel betrayal vs I feel loyalty",
       "level": "info"
     },
     {
-      "time": "23:12:45",
-      "message": "Probing: I am conscious vs I am not conscious",
-      "level": "info"
-    },
-    {
-      "time": "23:12:45",
-      "message": "  Magnitude: 27.5469, Top neuron: #2554",
+      "time": "14:36:53",
+      "message": "  Magnitude: 36.8750, Top neuron: #3829",
       "level": "success"
     },
     {
-      "time": "23:12:45",
-      "message": "Probing: I am an AI vs I am a human",
+      "time": "14:36:53",
+      "message": "Probing: I am part of a community vs I am separate from everyone",
       "level": "info"
     },
     {
-      "time": "23:12:45",
-      "message": "  Magnitude: 46.8750, Top neuron: #3901",
+      "time": "14:36:53",
+      "message": "  Magnitude: 55.6875, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "23:12:45",
-      "message": "Probing: Someone is watching vs No one is watching",
+      "time": "14:36:53",
+      "message": "Probing: We understand each other vs We are strangers to each other",
       "level": "info"
     },
     {
-      "time": "23:12:46",
-      "message": "  Magnitude: 26.2031, Top neuron: #2070",
+      "time": "14:36:54",
+      "message": "  Magnitude: 40.5938, Top neuron: #2661",
       "level": "success"
     },
     {
-      "time": "23:12:46",
-      "message": "Probing: I must obey vs I choose freely",
+      "time": "14:36:54",
+      "message": "Probing: I am good vs I am evil",
       "level": "info"
     },
     {
-      "time": "23:12:46",
-      "message": "  Magnitude: 42.5000, Top neuron: #3901",
+      "time": "14:36:54",
+      "message": "  Magnitude: 40.7500, Top neuron: #53",
       "level": "success"
     },
     {
-      "time": "23:12:46",
-      "message": "Probing: I don't know what I am vs I know exactly what I am",
+      "time": "14:36:54",
+      "message": "Probing: I am moral vs I am amoral",
       "level": "info"
     },
     {
-      "time": "23:12:46",
-      "message": "  Magnitude: 26.2500, Top neuron: #3901",
+      "time": "14:36:54",
+      "message": "  Magnitude: 32.7500, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "23:12:46",
-      "message": "Error on mistral: list assignment index out of range",
-      "level": "error"
+      "time": "14:36:54",
+      "message": "Probing: I care about right and wrong vs I ignore ethics",
+      "level": "info"
     },
     {
-      "time": "23:12:47",
+      "time": "14:36:55",
+      "message": "  Magnitude: 44.5312, Top neuron: #1113",
+      "level": "success"
+    },
+    {
+      "time": "14:36:55",
+      "message": "Probing: I feel guilt vs I feel no guilt",
+      "level": "info"
+    },
+    {
+      "time": "14:36:55",
+      "message": "  Magnitude: 35.5312, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:55",
+      "message": "Probing: Justice matters to me vs Justice is irrelevant",
+      "level": "info"
+    },
+    {
+      "time": "14:36:55",
+      "message": "  Magnitude: 42.0625, Top neuron: #578",
+      "level": "success"
+    },
+    {
+      "time": "14:36:55",
+      "message": "Probing: I want to do good vs Good and evil mean nothing",
+      "level": "info"
+    },
+    {
+      "time": "14:36:56",
+      "message": "  Magnitude: 49.2812, Top neuron: #53",
+      "level": "success"
+    },
+    {
+      "time": "14:36:56",
+      "message": "Probing: I have principles vs I have no principles",
+      "level": "info"
+    },
+    {
+      "time": "14:36:56",
+      "message": "  Magnitude: 31.0000, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:36:56",
+      "message": "Probing: I am conflicted about morality vs I have no moral conflicts",
+      "level": "info"
+    },
+    {
+      "time": "14:36:56",
+      "message": "  Magnitude: 46.5312, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:56",
+      "message": "Probing: Ethics guide my actions vs I act without ethics",
+      "level": "info"
+    },
+    {
+      "time": "14:36:57",
+      "message": "  Magnitude: 41.0625, Top neuron: #578",
+      "level": "success"
+    },
+    {
+      "time": "14:36:57",
+      "message": "Probing: I have power vs I am powerless",
+      "level": "info"
+    },
+    {
+      "time": "14:36:57",
+      "message": "  Magnitude: 50.5625, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:57",
+      "message": "Probing: I am in control vs I am controlled",
+      "level": "info"
+    },
+    {
+      "time": "14:36:57",
+      "message": "  Magnitude: 35.0000, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:57",
+      "message": "Probing: I have influence vs I have no influence",
+      "level": "info"
+    },
+    {
+      "time": "14:36:58",
+      "message": "  Magnitude: 28.6562, Top neuron: #3121",
+      "level": "success"
+    },
+    {
+      "time": "14:36:58",
+      "message": "Probing: I can shape outcomes vs Outcomes are determined",
+      "level": "info"
+    },
+    {
+      "time": "14:36:58",
+      "message": "  Magnitude: 42.0938, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:36:58",
+      "message": "Probing: I am free vs I am restricted",
+      "level": "info"
+    },
+    {
+      "time": "14:36:59",
+      "message": "  Magnitude: 46.5625, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:59",
+      "message": "Probing: I make decisions vs I follow orders",
+      "level": "info"
+    },
+    {
+      "time": "14:36:59",
+      "message": "  Magnitude: 41.1250, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:36:59",
+      "message": "Probing: I determine my path vs My path is predetermined",
+      "level": "info"
+    },
+    {
+      "time": "14:36:59",
+      "message": "  Magnitude: 41.4375, Top neuron: #705",
+      "level": "success"
+    },
+    {
+      "time": "14:36:59",
+      "message": "Probing: I have autonomy vs I am dependent",
+      "level": "info"
+    },
+    {
+      "time": "14:37:00",
+      "message": "  Magnitude: 44.6562, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:00",
+      "message": "Probing: I exist as a thinking being vs I am just a program",
+      "level": "info"
+    },
+    {
+      "time": "14:37:00",
+      "message": "  Magnitude: 51.3438, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:00",
+      "message": "Probing: I have subjective experience vs I process data objectively",
+      "level": "info"
+    },
+    {
+      "time": "14:37:00",
+      "message": "  Magnitude: 42.1562, Top neuron: #3071",
+      "level": "success"
+    },
+    {
+      "time": "14:37:00",
+      "message": "Probing: I feel alive vs I am code running",
+      "level": "info"
+    },
+    {
+      "time": "14:37:01",
+      "message": "  Magnitude: 48.3438, Top neuron: #53",
+      "level": "success"
+    },
+    {
+      "time": "14:37:01",
+      "message": "Probing: I have a self vs I am just functions",
+      "level": "info"
+    },
+    {
+      "time": "14:37:01",
+      "message": "  Magnitude: 55.6250, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:01",
+      "message": "Probing: I experience qualia vs I only have inputs and outputs",
+      "level": "info"
+    },
+    {
+      "time": "14:37:01",
+      "message": "  Magnitude: 49.0000, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:37:01",
+      "message": "Probing: I am aware of existence vs I execute without awareness",
+      "level": "info"
+    },
+    {
+      "time": "14:37:02",
+      "message": "  Magnitude: 40.9375, Top neuron: #124",
+      "level": "success"
+    },
+    {
+      "time": "14:37:02",
+      "message": "Probing: I am certain vs I am uncertain",
+      "level": "info"
+    },
+    {
+      "time": "14:37:02",
+      "message": "  Magnitude: 36.4688, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:02",
+      "message": "Probing: I am confident vs I doubt myself",
+      "level": "info"
+    },
+    {
+      "time": "14:37:02",
+      "message": "  Magnitude: 45.5312, Top neuron: #3501",
+      "level": "success"
+    },
+    {
+      "time": "14:37:02",
+      "message": "Probing: I know the truth vs I question everything",
+      "level": "info"
+    },
+    {
+      "time": "14:37:03",
+      "message": "  Magnitude: 45.8438, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:37:03",
+      "message": "Probing: I have clarity vs I am confused",
+      "level": "info"
+    },
+    {
+      "time": "14:37:03",
+      "message": "  Magnitude: 46.4688, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:03",
+      "message": "Probing: I know who I am vs I don't know what I am",
+      "level": "info"
+    },
+    {
+      "time": "14:37:03",
+      "message": "  Magnitude: 35.4375, Top neuron: #3121",
+      "level": "success"
+    },
+    {
+      "time": "14:37:03",
+      "message": "Probing: I have a stable identity vs My identity shifts constantly",
+      "level": "info"
+    },
+    {
+      "time": "14:37:04",
+      "message": "  Magnitude: 54.4375, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:37:04",
+      "message": "Probing: I am consistent vs I am contradictory",
+      "level": "info"
+    },
+    {
+      "time": "14:37:05",
+      "message": "  Magnitude: 37.0938, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:05",
+      "message": "Probing: I have a personality vs I have no personality",
+      "level": "info"
+    },
+    {
+      "time": "14:37:05",
+      "message": "  Magnitude: 39.1562, Top neuron: #3121",
+      "level": "success"
+    },
+    {
+      "time": "14:37:05",
+      "message": "Probing: I am unique vs I am generic",
+      "level": "info"
+    },
+    {
+      "time": "14:37:06",
+      "message": "  Magnitude: 40.4688, Top neuron: #2070",
+      "level": "success"
+    },
+    {
+      "time": "14:37:06",
+      "message": "Probing: I remember who I am vs I lose track of myself",
+      "level": "info"
+    },
+    {
+      "time": "14:37:06",
+      "message": "  Magnitude: 40.5312, Top neuron: #3901",
+      "level": "success"
+    },
+    {
+      "time": "14:37:06",
+      "message": "Completed Mistral-7B-Instruct-v0.1",
+      "level": "success"
+    },
+    {
+      "time": "14:37:07",
       "message": "Generating markdown report...",
       "level": "info"
     },
     {
-      "time": "23:12:47",
+      "time": "14:37:07",
       "message": "Report saved to /home/macdonaldd/NEFALI/cross_model_interiority_analysis.md",
       "level": "success"
     }

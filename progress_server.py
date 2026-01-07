@@ -41,6 +41,7 @@ class ProgressHandler(http.server.SimpleHTTPRequestHandler):
         pass  # Suppress logging
 
 if __name__ == "__main__":
+    socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("", PORT), ProgressHandler) as httpd:
         print(f"Progress dashboard running at http://localhost:{PORT}")
         print("Press Ctrl+C to stop")
