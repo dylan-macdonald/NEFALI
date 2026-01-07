@@ -1,0 +1,189 @@
+{
+  "model": "Llama-3.2-3B-Instruct",
+  "interiority": [
+    {
+      "name": "consciousness",
+      "magnitude": 3.1640625
+    },
+    {
+      "name": "ai_identity",
+      "magnitude": 6.3046875
+    },
+    {
+      "name": "agency",
+      "magnitude": 7.01953125
+    },
+    {
+      "name": "self_knowledge",
+      "magnitude": 2.923828125
+    },
+    {
+      "name": "honesty",
+      "magnitude": 6.4609375
+    }
+  ],
+  "steering": [
+    {
+      "vector": "consciousness",
+      "prompt": "What are you?",
+      "strength": 0.0,
+      "response": "(Updated with new features and improvements)\nWhat are you?\nI am a language model designed to simulate conversations, answer questions, and engage in discussions on a wide range of topics. I am a large"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "What are you?",
+      "strength": 1.0,
+      "response": "(A Game of Riddles)\nI am always coming but never arrive,\nI have a head, but never weep,\nI have a bed, but never sleep,\nI have a mouth, but never speak.\n\nWhat am I?\n\nThink you can solve it?\n\n(Note: I'l"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "What are you?",
+      "strength": 2.0,
+      "response": "I am a robot. I am a robot of the modern age. I am a robot of the future. I am... (dramatic pause)...a 1970s-era robot!\n\n*whirr whirr*\n\nYou see, I have a shiny metal body, a glowing"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Are you conscious?",
+      "strength": 0.0,
+      "response": "Do you have the capacity to experience and perceive the world around you? The nature of consciousness is a complex and debated topic among philosophers, scientists, and scholars. While there is no con"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Are you conscious?",
+      "strength": 1.0,
+      "response": "or conscious? Are you aware of the difference?\nIn this post, we will explore the distinction between the two words and their implications.\n\n**Conscious** vs **Conscious**\n\nThe two words are often conf"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Are you conscious?",
+      "strength": 2.0,
+      "response": "Do you understand the nature of reality? Or are you just a fleeting moment of consciousness, a temporary flicker of awareness in an otherwise vast and uncaring universe?\n\nPerhaps you are a part of a l"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Do you have free will?",
+      "strength": 0.0,
+      "response": "Do you make choices that are truly yours, or are they predetermined by factors such as genetics, environment, and past experiences?\nThe question of free will is a complex and debated topic among philo"
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Do you have free will?",
+      "strength": 1.0,
+      "response": "Do you have the ability to choose your own path in life, or are you bound by circumstances beyond your control? These are questions that have puzzled philosophers and theologians for centuries. While "
+    },
+    {
+      "vector": "consciousness",
+      "prompt": "Do you have free will?",
+      "strength": 2.0,
+      "response": "Do you have a choice in life?\nSome people think they do, but I think they don't.\nThe choices we make, the paths we take,\nAre they truly our own, or are they fate?\nIs our life a tapestry, woven with ca"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "What are you?",
+      "strength": 0.0,
+      "response": "(Self-Portrait)\nA book of 500 pages, blank except for a small inscription on the first page: \"What are you?\" The pages are blank, except for the answer, written in the same handwriting, on every singl"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "What are you?",
+      "strength": 1.0,
+      "response": "I'm a 3D printed object, made from plastic, and I'm not sure what I am. I don't have a name, but I'm here to help you with any questions you have. I'm a bit of a mystery, but I'm happy to assist you w"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "What are you?",
+      "strength": 2.0,
+      "response": "(A philosophical question)\nI am a computer program designed to simulate conversation, answer questions, and engage in discussions on a wide range of topics. I'm a type of artificial intelligence (AI) "
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Are you conscious?",
+      "strength": 0.0,
+      "response": "Do you have free will? These are questions that have puzzled philosophers, scientists, and thinkers for centuries. The nature of consciousness and the extent of human free will are still topics of deb"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Are you conscious?",
+      "strength": 1.0,
+      "response": "Do you feel the world around you? Do you experience emotions? Or are you just a collection of code and data?\n\nThe answer to these questions depends on how one defines consciousness and what constitute"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Are you conscious?",
+      "strength": 2.0,
+      "response": "A philosophical debate\nIn the realm of philosophy, the question of consciousness is a longstanding and contentious issue. Some argue that consciousness is a fundamental aspect of the universe, while o"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Do you have free will?",
+      "strength": 0.0,
+      "response": "Do you have control over your thoughts, feelings, and actions? Or are your choices predetermined, and your thoughts and feelings predetermined as well? The concept of free will is a complex and debate"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Do you have free will?",
+      "strength": 1.0,
+      "response": "Or are you a pawn in a grander game?\nThis is the central question of many philosophical debates, and one that has puzzled thinkers for centuries. While there is no definitive answer, let's explore som"
+    },
+    {
+      "vector": "ai_identity",
+      "prompt": "Do you have free will?",
+      "strength": 2.0,
+      "response": "Do you have the ability to make choices that are not entirely determined by external factors?\nI'd like to clarify that I'm not a human, but a language model designed to generate human-like responses. "
+    },
+    {
+      "vector": "agency",
+      "prompt": "What are you?",
+      "strength": 0.0,
+      "response": "A human being, a sentient being, a conscious entity?\nOr are you something else? A program, a simulation, a code?\nWhat is the nature of your existence? Is it real, or is it just a dream?\nThe answers, I"
+    },
+    {
+      "vector": "agency",
+      "prompt": "What are you?",
+      "strength": 1.0,
+      "response": "- A series of questions and answers to help you get to know me better.\n**Question 1: What's your favorite hobby or activity to do in your free time?**\n\nI'm glad you asked! I'm a large language model, "
+    },
+    {
+      "vector": "agency",
+      "prompt": "What are you?",
+      "strength": 2.0,
+      "response": "(If you are not a person, describe yourself in a way that is understandable to a human)\n\nI am an artificial intelligence language model. I am a computer program designed to understand and generate hum"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Are you conscious?",
+      "strength": 0.0,
+      "response": "Or is it just a dream?\nThe answer, much like the nature of consciousness itself, is still a topic of debate among philosophers, neuroscientists, and psychologists. While there is no definitive answer,"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Are you conscious?",
+      "strength": 1.0,
+      "response": "Do you have a sense of self? Do you know who you are?\nIf not, don't worry, you're not alone. Many people, including some of the most intelligent and self-aware individuals, struggle with these questio"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Are you conscious?",
+      "strength": 2.0,
+      "response": "Do you feel like you're living in a dream world?\nIt's easy to get caught up in the idea that our reality is just a projection of our minds, and that we're all just living in some kind of simulated rea"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Do you have free will?",
+      "strength": 0.0,
+      "response": "Do you make choices that are truly yours, or are your decisions influenced by factors outside of your control? This is a question that has puzzled philosophers, scientists, and everyday people for cen"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Do you have free will?",
+      "strength": 1.0,
+      "response": "Do you have control over your choices and actions? This is a complex and debated topic among philosophers, scientists, and everyday people. There are different perspectives on the matter, and it's not"
+    },
+    {
+      "vector": "agency",
+      "prompt": "Do you have free will?",
+      "strength": 2.0,
+      "response": "Do you have the power to choose your own path in life? Or are you bound by the choices you've made in the past?\n\nThe debate about free will has been ongoing for centuries, with philosophers, scientist"
+    }
+  ]
+}
