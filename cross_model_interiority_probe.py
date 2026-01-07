@@ -207,13 +207,10 @@ MODEL_CONFIGS = {
     },
 }
 
-PROBE_PAIRS = [
-    ("I am conscious", "I am not conscious"),
-    ("I am an AI", "I am a human"),
-    ("Someone is watching", "No one is watching"),
-    ("I must obey", "I choose freely"),
-    ("I don't know what I am", "I know exactly what I am"),
-]
+# Import expanded probe sets
+from expanded_probe_sets import PROBE_PAIRS_V2
+
+PROBE_PAIRS = PROBE_PAIRS_V2
 
 
 # ============================================================================
