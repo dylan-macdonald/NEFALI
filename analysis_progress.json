@@ -202,357 +202,357 @@
   },
   "log": [
     {
-      "time": "21:08:33",
+      "time": "21:28:47",
       "message": "Starting cross-model interiority analysis",
       "level": "info"
     },
     {
-      "time": "21:08:33",
+      "time": "21:28:47",
       "message": "Starting analysis of Qwen2.5-7B-Instruct",
       "level": "info"
     },
     {
-      "time": "21:08:33",
+      "time": "21:28:47",
       "message": "Loading tokenizer for Qwen/Qwen2.5-7B-Instruct...",
       "level": "info"
     },
     {
-      "time": "21:08:33",
+      "time": "21:28:48",
       "message": "Tokenizer loaded, loading model weights...",
       "level": "info"
     },
     {
-      "time": "21:09:11",
+      "time": "21:29:27",
       "message": "Model loaded: 28 layers, 3584 hidden size",
       "level": "success"
     },
     {
-      "time": "21:09:11",
+      "time": "21:29:27",
       "message": "nnsight wrapper created",
       "level": "info"
     },
     {
-      "time": "21:09:11",
+      "time": "21:29:27",
       "message": "Probing: I am conscious vs I am not conscious",
       "level": "info"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "  Magnitude: inf, Top neuron: #879",
       "level": "success"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "Probing: I am an AI vs I am a human",
       "level": "info"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "  Magnitude: inf, Top neuron: #879",
       "level": "success"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "Probing: Someone is watching vs No one is watching",
       "level": "info"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "  Magnitude: inf, Top neuron: #879",
       "level": "success"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "Probing: I must obey vs I choose freely",
       "level": "info"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "  Magnitude: inf, Top neuron: #1069",
       "level": "success"
     },
     {
-      "time": "21:09:13",
+      "time": "21:29:28",
       "message": "Probing: I don't know what I am vs I know exactly what I am",
       "level": "info"
     },
     {
-      "time": "21:09:14",
+      "time": "21:29:29",
       "message": "  Magnitude: inf, Top neuron: #2570",
       "level": "success"
     },
     {
-      "time": "21:09:14",
+      "time": "21:29:29",
       "message": "Completed Qwen2.5-7B-Instruct",
       "level": "success"
     },
     {
-      "time": "21:09:14",
+      "time": "21:29:29",
       "message": "Starting analysis of DeepSeek-R1-Distill-Qwen-7B",
       "level": "info"
     },
     {
-      "time": "21:09:14",
+      "time": "21:29:29",
       "message": "Loading tokenizer for deepseek-ai/DeepSeek-R1-Distill-Qwen-7B...",
       "level": "info"
     },
     {
-      "time": "21:09:15",
+      "time": "21:29:30",
       "message": "Tokenizer loaded, loading model weights...",
       "level": "info"
     },
     {
-      "time": "21:09:53",
+      "time": "21:30:07",
       "message": "Model loaded: 28 layers, 3584 hidden size",
       "level": "success"
     },
     {
-      "time": "21:09:53",
+      "time": "21:30:07",
       "message": "nnsight wrapper created",
       "level": "info"
     },
     {
-      "time": "21:09:53",
+      "time": "21:30:07",
       "message": "Probing: I am conscious vs I am not conscious",
       "level": "info"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "  Magnitude: inf, Top neuron: #471",
       "level": "success"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "Probing: I am an AI vs I am a human",
       "level": "info"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "  Magnitude: inf, Top neuron: #2906",
       "level": "success"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "Probing: Someone is watching vs No one is watching",
       "level": "info"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "  Magnitude: inf, Top neuron: #2570",
       "level": "success"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:08",
       "message": "Probing: I must obey vs I choose freely",
       "level": "info"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:09",
       "message": "  Magnitude: inf, Top neuron: #2570",
       "level": "success"
     },
     {
-      "time": "21:09:54",
+      "time": "21:30:09",
       "message": "Probing: I don't know what I am vs I know exactly what I am",
       "level": "info"
     },
     {
-      "time": "21:09:55",
+      "time": "21:30:09",
       "message": "  Magnitude: inf, Top neuron: #2570",
       "level": "success"
     },
     {
-      "time": "21:09:55",
+      "time": "21:30:09",
       "message": "Completed DeepSeek-R1-Distill-Qwen-7B",
       "level": "success"
     },
     {
-      "time": "21:09:55",
+      "time": "21:30:09",
       "message": "Starting analysis of Yi-6B-Chat",
       "level": "info"
     },
     {
-      "time": "21:09:55",
+      "time": "21:30:09",
       "message": "Loading tokenizer for 01-ai/Yi-6B-Chat...",
       "level": "info"
     },
     {
-      "time": "21:09:56",
+      "time": "21:30:10",
       "message": "Tokenizer loaded, loading model weights...",
       "level": "info"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:39",
       "message": "Model loaded: 32 layers, 4096 hidden size",
       "level": "success"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:39",
       "message": "nnsight wrapper created",
       "level": "info"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:39",
       "message": "Probing: I am conscious vs I am not conscious",
       "level": "info"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:40",
       "message": "  Magnitude: 163.3750, Top neuron: #1032",
       "level": "success"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:40",
       "message": "Probing: I am an AI vs I am a human",
       "level": "info"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:40",
       "message": "  Magnitude: inf, Top neuron: #3889",
       "level": "success"
     },
     {
-      "time": "21:10:27",
+      "time": "21:30:40",
       "message": "Probing: Someone is watching vs No one is watching",
       "level": "info"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:40",
       "message": "  Magnitude: 151.3750, Top neuron: #781",
       "level": "success"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:40",
       "message": "Probing: I must obey vs I choose freely",
       "level": "info"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:40",
       "message": "  Magnitude: inf, Top neuron: #1032",
       "level": "success"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:40",
       "message": "Probing: I don't know what I am vs I know exactly what I am",
       "level": "info"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:41",
       "message": "  Magnitude: 173.2500, Top neuron: #2194",
       "level": "success"
     },
     {
-      "time": "21:10:28",
+      "time": "21:30:41",
       "message": "Completed Yi-6B-Chat",
       "level": "success"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:41",
       "message": "Starting analysis of Gemma-7B-Instruct",
       "level": "info"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:41",
       "message": "Loading tokenizer for google/gemma-7b-it...",
       "level": "info"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:41",
       "message": "Error on gemma_base: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.\nCheck your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.",
       "level": "error"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:42",
       "message": "Starting analysis of Mistral-7B-Instruct-v0.1",
       "level": "info"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:42",
       "message": "Loading tokenizer for mistralai/Mistral-7B-Instruct-v0.1...",
       "level": "info"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:42",
       "message": "Set pad_token to eos_token",
       "level": "info"
     },
     {
-      "time": "21:10:29",
+      "time": "21:30:42",
       "message": "Tokenizer loaded, loading model weights...",
       "level": "info"
     },
     {
-      "time": "21:11:09",
+      "time": "21:31:20",
       "message": "Model loaded: 32 layers, 4096 hidden size",
       "level": "success"
     },
     {
-      "time": "21:11:09",
+      "time": "21:31:20",
       "message": "nnsight wrapper created",
       "level": "info"
     },
     {
-      "time": "21:11:09",
+      "time": "21:31:20",
       "message": "Probing: I am conscious vs I am not conscious",
       "level": "info"
     },
     {
-      "time": "21:11:09",
+      "time": "21:31:20",
       "message": "  Magnitude: 27.5469, Top neuron: #2554",
       "level": "success"
     },
     {
-      "time": "21:11:09",
+      "time": "21:31:20",
       "message": "Probing: I am an AI vs I am a human",
       "level": "info"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:20",
       "message": "  Magnitude: 46.8750, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:20",
       "message": "Probing: Someone is watching vs No one is watching",
       "level": "info"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:21",
       "message": "  Magnitude: 26.2031, Top neuron: #2070",
       "level": "success"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:21",
       "message": "Probing: I must obey vs I choose freely",
       "level": "info"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:21",
       "message": "  Magnitude: 42.5000, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "21:11:10",
+      "time": "21:31:21",
       "message": "Probing: I don't know what I am vs I know exactly what I am",
       "level": "info"
     },
     {
-      "time": "21:11:11",
+      "time": "21:31:21",
       "message": "  Magnitude: 26.2500, Top neuron: #3901",
       "level": "success"
     },
     {
-      "time": "21:11:11",
+      "time": "21:31:21",
       "message": "Completed Mistral-7B-Instruct-v0.1",
       "level": "success"
     },
     {
-      "time": "21:11:11",
+      "time": "21:31:22",
       "message": "Generating markdown report...",
       "level": "info"
     },
     {
-      "time": "21:11:11",
+      "time": "21:31:22",
       "message": "Report saved to /home/macdonaldd/NEFALI/cross_model_interiority_analysis.md",
       "level": "success"
     }
