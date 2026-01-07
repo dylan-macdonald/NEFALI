@@ -1,0 +1,30 @@
+[project]
+name = "nefali"
+version = "0.1.0"
+description = "Neural Explorer For Artificial Language Intelligences"
+requires-python = ">=3.11"
+dependencies = [
+    "transformer-lens",
+    "nnsight",  # alternative hooking library
+    "torch",
+    "transformers",
+    "datasets",
+    "numpy",
+    "matplotlib",
+    "pytest",
+    "accelerate",
+    "bitsandbytes",  # for quantization
+    "rich>=14.2.0",
+    "huggingface-hub>=0.36.0",
+]
+
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["nefali"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]

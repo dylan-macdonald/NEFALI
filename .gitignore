@@ -1,0 +1,16 @@
+# Claude Code local
+CLAUDE.local.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Project specific
+models/
+activations/
+*.pt
+*.safetensors
+
