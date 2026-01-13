@@ -13,13 +13,19 @@ The Reader answers questions like:
 
 import torch
 import numpy as np
+import warnings
 from typing import Dict, List, Tuple, Optional
 from dataclasses import dataclass
+
+# Suppress NumPy overflow warnings
+warnings.filterwarnings("ignore", category=RuntimeWarning, module="numpy")
+np.seterr(over="ignore", under="ignore")
 
 
 @dataclass
 class NeuronDiff:
     """A neuron that differs significantly between two prompts."""
+
     layer: int
     neuron_idx: int
     activation_a: float
@@ -34,6 +40,7 @@ class NeuronDiff:
 @dataclass
 class ConceptVector:
     """A direction in activation space that represents a concept difference."""
+
     layer: int
     vector: np.ndarray
     prompt_a: str
@@ -42,10 +49,17 @@ class ConceptVector:
 
     def project(self, activation: np.ndarray) -> float:
         """Project an activation onto this concept direction."""
-        # Normalize both vectors
-        norm_vec = self.vector / (np.linalg.norm(self.vector) + 1e-8)
-        norm_act = activation / (np.linalg.norm(activation) + 1e-8)
-        return float(np.dot(norm_vec, norm_act))
+        # Normalize both vectors with overflow protection
+        vector_norm = np.linalg.norm(self.vector.astype(np.float64))
+        activation_norm = np.linalg.norm(activation.astype(np.float64))
+
+        # Clip to prevent overflow
+        vector_norm = np.clip(vector_norm, 1e-8, 1e6)
+        activation_norm = np.clip(activation_norm, 1e-8, 1e6)
+
+        norm_vec = self.vector / vector_norm
+        norm_act = activation / activation_norm
+        return float(np.dot(norm_vec.astype(np.float64), norm_act.astype(np.float64)))
 
 
 class Reader:
@@ -66,11 +80,13 @@ class Reader:
             for layer_key, act in activations.items()
         }
 
-    def compare_neurons(self,
-                        prompt_a: str,
-                        prompt_b: str,
-                        layer_key: Optional[str] = None,
-                        top_k: int = 20) -> List[NeuronDiff]:
+    def compare_neurons(
+        self,
+        prompt_a: str,
+        prompt_b: str,
+        layer_key: Optional[str] = None,
+        top_k: int = 20,
+    ) -> List[NeuronDiff]:
         """
         Find neurons with the biggest activation differences between two prompts.
 
@@ -86,7 +102,7 @@ class Reader:
 
         # If no layer specified, use the final layer
         if layer_key is None:
-            layer_key = max(acts_a.keys(), key=lambda k: int(k.split('_')[1]))
+            layer_key = max(acts_a.keys(), key=lambda k: int(k.split("_")[1]))
 
         if layer_key not in acts_a or layer_key not in acts_b:
             raise ValueError(f"Layer {layer_key} not found in stored activations")
@@ -96,7 +112,7 @@ class Reader:
 
         # Find differences for each neuron
         diffs = vec_a - vec_b
-        layer_idx = int(layer_key.split('_')[1])
+        layer_idx = int(layer_key.split("_")[1])
 
         # Create NeuronDiff objects for all neurons
         neuron_diffs = [
@@ -105,7 +121,7 @@ class Reader:
                 neuron_idx=i,
                 activation_a=float(vec_a[i]),
                 activation_b=float(vec_b[i]),
-                difference=float(diffs[i])
+                difference=float(diffs[i]),
             )
             for i in range(len(diffs))
         ]
@@ -114,11 +130,13 @@ class Reader:
         neuron_diffs.sort(key=lambda nd: nd.abs_diff, reverse=True)
         return neuron_diffs[:top_k]
 
-    def compute_concept_vector(self,
-                               prompt_a: str,
-                               prompt_b: str,
-                               layer_key: Optional[str] = None,
-                               name: Optional[str] = None) -> ConceptVector:
+    def compute_concept_vector(
+        self,
+        prompt_a: str,
+        prompt_b: str,
+        layer_key: Optional[str] = None,
+        name: Optional[str] = None,
+    ) -> ConceptVector:
         """
         Compute a concept vector: the direction from prompt_a to prompt_b.
 
@@ -134,21 +152,25 @@ class Reader:
         acts_b = self.stored_activations[prompt_b]
 
         if layer_key is None:
-            layer_key = max(acts_a.keys(), key=lambda k: int(k.split('_')[1]))
+            layer_key = max(acts_a.keys(), key=lambda k: int(k.split("_")[1]))
 
         vec_a = acts_a[layer_key]
         vec_b = acts_b[layer_key]
 
         # Concept vector is the difference
         concept_vec = vec_b - vec_a
-        layer_idx = int(layer_key.split('_')[1])
+        layer_idx = int(layer_key.split("_")[1])
+
+        # Compute magnitude with overflow protection
+        magnitude = float(np.linalg.norm(concept_vec.astype(np.float64)))
+        magnitude = np.clip(magnitude, 0, 1e6)
 
         cv = ConceptVector(
             layer=layer_idx,
             vector=concept_vec,
             prompt_a=prompt_a,
             prompt_b=prompt_b,
-            magnitude=float(np.linalg.norm(concept_vec))
+            magnitude=float(magnitude),
         )
 
         # Store if named
@@ -157,8 +179,9 @@ class Reader:
 
         return cv
 
-    def similarity(self, prompt_a: str, prompt_b: str,
-                   layer_key: Optional[str] = None) -> float:
+    def similarity(
+        self, prompt_a: str, prompt_b: str, layer_key: Optional[str] = None
+    ) -> float:
         """
         Compute cosine similarity between two prompts' activations.
 
@@ -176,25 +199,29 @@ class Reader:
         acts_b = self.stored_activations[prompt_b]
 
         if layer_key is None:
-            layer_key = max(acts_a.keys(), key=lambda k: int(k.split('_')[1]))
+            layer_key = max(acts_a.keys(), key=lambda k: int(k.split("_")[1]))
 
         vec_a = acts_a[layer_key]
         vec_b = acts_b[layer_key]
 
-        # Cosine similarity
-        dot = np.dot(vec_a, vec_b)
-        norm_a = np.linalg.norm(vec_a)
-        norm_b = np.linalg.norm(vec_b)
+        # Cosine similarity with overflow protection
+        dot = np.dot(vec_a.astype(np.float64), vec_b.astype(np.float64))
+        norm_a = np.linalg.norm(vec_a.astype(np.float64))
+        norm_b = np.linalg.norm(vec_b.astype(np.float64))
+
+        # Clip norms to prevent overflow
+        norm_a = np.clip(norm_a, 1e-8, 1e6)
+        norm_b = np.clip(norm_b, 1e-8, 1e6)
+        dot = np.clip(dot, -1e12, 1e12)
 
         if norm_a < 1e-8 or norm_b < 1e-8:
             return 0.0
 
         return float(dot / (norm_a * norm_b))
 
-    def project_onto_concept(self,
-                             prompt: str,
-                             concept_name: str,
-                             layer_key: Optional[str] = None) -> float:
+    def project_onto_concept(
+        self, prompt: str, concept_name: str, layer_key: Optional[str] = None
+    ) -> float:
         """
         Project a prompt's activation onto a stored concept vector.
 
@@ -218,11 +245,13 @@ class Reader:
 
         return cv.project(acts[layer_key])
 
-    def find_consistent_neurons(self,
-                                 prompts_group_a: List[str],
-                                 prompts_group_b: List[str],
-                                 layer_key: Optional[str] = None,
-                                 top_k: int = 20) -> List[Tuple[int, float, float]]:
+    def find_consistent_neurons(
+        self,
+        prompts_group_a: List[str],
+        prompts_group_b: List[str],
+        layer_key: Optional[str] = None,
+        top_k: int = 20,
+    ) -> List[Tuple[int, float, float]]:
         """
         Find neurons that consistently differ between two groups of prompts.
 
@@ -238,7 +267,7 @@ class Reader:
 
         acts_a = self.stored_activations[prompts_group_a[0]]
         if layer_key is None:
-            layer_key = max(acts_a.keys(), key=lambda k: int(k.split('_')[1]))
+            layer_key = max(acts_a.keys(), key=lambda k: int(k.split("_")[1]))
 
         hidden_size = len(acts_a[layer_key])
 
@@ -269,12 +298,16 @@ class Reader:
         # Mean difference and consistency (inverse of pooled variance)
         mean_diffs = means_b - means_a
         pooled_std = np.sqrt((var_a + var_b) / 2 + 1e-8)
-        consistency = np.abs(mean_diffs) / pooled_std  # Like t-statistic
+
+        # Clip to prevent overflow in consistency calculation
+        pooled_std = np.clip(pooled_std, 1e-8, 1e6)
+        mean_diffs_clipped = np.clip(mean_diffs, -1e6, 1e6)
+        consistency = np.abs(mean_diffs_clipped) / pooled_std  # Like t-statistic
+        consistency = np.clip(consistency, 0, 1e6)  # Final clipping
 
         # Build results
         results = [
-            (i, float(mean_diffs[i]), float(consistency[i]))
-            for i in range(hidden_size)
+            (i, float(mean_diffs[i]), float(consistency[i])) for i in range(hidden_size)
         ]
 
         # Sort by consistency score
